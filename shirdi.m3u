@@ -122,3 +122,9 @@ http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
 #EXTINF:22 tvg-chno="41" group-title="Tamil",  AUSTAMIL
 #EXTVLCOPT:network-caching=1000
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:22 tvg-chno="41" group-title="Tamil",  Chithiram
+#EXTVLCOPT:network-caching=1000
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:22 tvg-chno="41" group-title="Tamil", Makkal
+#EXTVLCOPT:network-caching=1000
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
