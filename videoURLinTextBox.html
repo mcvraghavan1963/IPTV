@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+	<meta charset="UTF-8">
+	<title>MCV TV Channels</title>
+        <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+        <script src="https://unpkg.com/@api.video/hlsjs-player-analytics">
+        </script>
+        <script src="http://player.streamingtvguides.com/hls-demo.js">
+        </script>
+        
+    </head>
+    
+    <body>
+	        <video id="video" controls autoplay width=640 height=480></video>
+           
+    <script>
+        
+        
+        var video = document.getElementById('video');
+        var videoSrc = "https://cam3.pc.cdn.bitgravity.com/cam/live/shreesaibaba1/tataplay/chunklist.m3u8?e=1678168831&h=1fc7008074de1046b573cf96f63535b5";
+        if (Hls.isSupported()) {
+            var hls = new Hls();
+            new HlsJsApiVideoAnalytics(hls);
+            hls.loadSource(videoSrc);
+            hls.attachMedia(video);
+        }
+     </script>
+    
+     <script> 
+     	
+        function hlsLoad(){
+        var CName1 = document.getElementById("CName").value;
+		if (Hls.isSupported()) {
+            			var hls = new Hls();
+            			new HlsJsApiVideoAnalytics(hls);
+                        hls.loadSource(CName1);
+            			hls.attachMedia(video);
+	    			hls.play();
+			}
+        }
+    </script>
+    
+    <br><br>;	
+     <input type="text" id="CName" name="CName"><br><br>;
+    <button onClick="hlsLoad()">Select</button>;
+  
+</body>
+
+</html>
