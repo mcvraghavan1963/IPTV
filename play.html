@@ -1,0 +1,558 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Netflix</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script>
+
+  <script src="main.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+        <script src="https://unpkg.com/@api.video/hlsjs-player-analytics">
+        </script>
+        <script src="http://player.streamingtvguides.com/hls-demo.js">
+        </script>
+</head>
+<style>
+/* CSS VARIABLES */
+:root {
+  --primary: #141414;
+  --light: #F3F3F3;
+  --dark: 	#686868;
+}
+
+html, body {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: var(--primary);
+  color: var(--light);
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  line-height: 1.4;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  padding-top: 60px;  
+}
+
+.wrapper {
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+header {
+  padding: 20px 20px 0 20px;
+  position: fixed;
+  top: 0;
+  display: grid;  
+  grid-gap:5px;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-template-areas: 
+   "nt mn mn sb . . . "; 
+  background-color: var(--primary);
+  width: 100%;
+  margin-bottom: 0px;  
+}
+
+.netflixLogo {
+  grid-area: nt;
+  object-fit: cover;
+  width: 100px;
+  max-height: 100%;
+  
+  padding-left: 30px;
+  padding-top: 0px;  
+}
+
+.netflixLogo img {  
+  height: 35px;     
+}
+
+#logo {
+  color: #E50914;  
+  margin: 0; 
+  padding: 0; 
+}
+
+
+.main-nav {
+  grid-area: mn;
+  padding: 0 30px 0 20px;
+}
+
+.main-nav a {
+  color: var(--light);
+  text-decoration: none;
+  margin: 5px;  
+}
+
+.main-nav a:hover {
+  color: var(--dark);
+}
+
+.sub-nav {
+  grid-area: sb;
+  padding: 0 40px 0 40px;
+}
+
+.sub-nav a {
+  color: var(--light);
+  text-decoration: none;
+  margin: 5px;
+}
+
+.sub-nav a:hover {
+  color: var(--dark);
+}
+
+
+/* MAIN CONTIANER */
+.main-container {
+  padding: 50px;
+}
+
+.box {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(6, minmax(100px, 1fr));
+}
+
+.box a {
+  transition: transform .3s;  
+}
+
+.box a:hover {
+  transition: transform .3s;
+  -ms-transform: scale(1.4);
+  -webkit-transform: scale(1.4);  
+  transform: scale(1.4);
+}
+
+.box img {
+  border-radius: 2px;
+}
+
+/* LINKS */
+.link {
+  padding: 50px;
+}
+
+.sub-links ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.sub-links a {
+  color: var(--dark);
+  text-decoration: none;
+}
+
+.sub-links a:hover {
+  color: var(--dark);
+  text-decoration: underline;
+}
+
+.logos a{
+  padding: 10px;
+}
+
+.logo {
+  color: var(--dark);
+}
+
+
+/* FOOTER */
+footer {
+  padding: 20px;
+  text-align: center;
+  color: var(--dark);
+  margin: 10px;
+}
+
+/* MEDIA QUERIES */
+
+@media(max-width: 900px) {
+
+  header {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: 
+    "nt nt nt  .  .  . sb . . . "
+    "mn mn mn mn mn mn  mn mn mn mn";
+  }
+
+  .box {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, minmax(100px, 1fr));
+  }
+
+}
+
+@media(max-width: 700px) {
+
+  header {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: 
+    "nt nt nt  .  .  . sb . . . "
+    "mn mn mn mn mn mn  mn mn mn mn";
+  }
+
+  .box {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, minmax(100px, 1fr));
+  }
+
+  .sub-links ul {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+   
+}
+
+@media(max-width: 500px) {
+
+  .wrapper {
+    font-size: 15px;
+  }
+
+  header {
+    margin: 0;
+    padding: 20px 0 0 0;
+    position: static;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-areas: 
+    "nt"    
+    "mn"
+    "sb";
+    text-align: center;
+  }
+
+  .netflixLogo {
+    max-width: 100%;
+    margin: auto;
+    padding-right: 20px;
+  }
+
+  .main-nav {
+    display: grid;
+    grid-gap: 0px;
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 18px;
+  }
+
+ 
+
+  .box {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center;    
+  }
+
+  .box a:hover {
+    transition: transform .3s;
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);  
+    transform: scale(1.2);
+  }
+
+  .logos {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+  }
+
+  .sub-links ul {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center;
+    font-size: 15px;
+  }
+
+  
+
+  
+   
+}
+</style>
+<body onload="getChannelNumber()">
+  <div class="wrapper">
+
+    <!-- HEADER -->
+    <header>
+      <div class="netflixLogo">
+        <a id="logo" href="#home"><img src="images/miratallogo.png" alt="Logo Image"></a>
+      </div>      
+      <nav class="main-nav">                
+        <a href="#home">Home</a>
+        <a href="#tvShows">TV Shows</a>
+        <a href="#movies">Movies</a>
+        <a href="#originals">Originals</a>
+        <a href="#">Recently Added</a>
+        <a target="_blank" href="https://codepen.io/cb2307/full/NzaOrm">Portfolio</a>        
+      </nav>
+      <nav class="sub-nav">
+        <a href="#"><i class="fas fa-search sub-nav-logo"></i></a>
+        <a href="#"><i class="fas fa-bell sub-nav-logo"></i></a>
+        <a href="#">Account</a>        
+      </nav>      
+    </header>
+    <!-- END OF HEADER -->
+    
+    <!-- MAIN CONTAINER -->
+    <section class="main-container" >
+      <div class="location" id="home">
+           <video id="video" controls autoplay:'true' width=1060 height=640></video>
+    <script>
+        var video = document.getElementById('video');
+        
+        var videoSrc = "";
+        if (Hls.isSupported()) {
+            var hls = new Hls();
+            new HlsJsApiVideoAnalytics(hls);
+            hls.loadSource(videoSrc);
+            hls.attachMedia(video);
+        }
+    </script>
+	<p id="demo"></p>
+	<script>
+	var x = 0;
+	const Channel = new Array (
+	"https://cam3.pc.cdn.bitgravity.com/cam/live/shreesaibaba1/tataplay/chunklist.m3u8?e=1678168831&h=1fc7008074de1046b573cf96f63535b5", //shirdi
+"https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8", //3tamil
+"http://media.7starcloud.com:1935/live/7star/playlist.m3u8", //7star
+"http://singamcloud.in/purpletv/purpletv/index.m3u8", //abinaya
+"https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8", //austamil
+"http://livematrix.in:80/bamahd/bamahd.m3u8", //bama
+"http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8", //durais
+"http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8", //gtv
+"https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v3a1/mono.m3u8", //ibctamil
+"https://idvd.multitvsolution.com/idvo/imayamtv.m3u8", //imayam
+"http://account26.livebox.co.in/kinghls/live.m3u8", //king
+"http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8", //kumari
+"http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8", //mkp
+"https://mntv.livebox.co.in/mntvhls/live.m3u8", //MN
+"https://mntv.livebox.co.in/musichls/live.m3u8", //MN Music
+"https://segment.yuppcdn.net/050522/murasu/playlist.m3u8", //Murasu
+"http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8", //namathu sangamam
+"http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8", //nellai times
+"http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8", //sivan
+"http://singamcloud.in/smcvtv/smcvtv/index.m3u8", //SMCV
+"https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8", //vasanth
+"http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8" , //vinayaga
+"http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8" //vinayaga music
+
+);
+    function getChannelNumber(){
+	var idx = document.URL.indexOf('?');
+	var params = new Array();
+		if (idx != -1) {
+		var pairs = document.URL.substring(idx+1, document.URL.length).split('&');
+		for (var i=0; i<pairs.length; i++) {
+		nameVal = pairs[i].split('=');
+		params[nameVal[0]] = nameVal[1];
+		document.getElementById("CNumber").value = params.channel;
+		x=params.channel;
+		
+		hlsLoad();
+		}
+		}
+		
+		}
+	
+	function hlsLoad(){
+		if (Hls.isSupported()) {
+            			var hls = new Hls();
+            			new HlsJsApiVideoAnalytics(hls);
+            			hls.loadSource(Channel[x]);
+            			hls.attachMedia(video);
+						
+						hls.play();
+						
+			}
+		
+	
+	}
+
+	function Up() {
+		x++;
+    	if(x > (Channel.length-1)) x = (Channel.length-1);
+		
+		document.getElementById("CNumber").value = x;
+		hlsLoad();
+	}
+
+	function Down(){
+		if(x<=0) x = 0;
+    		else{
+				x--;
+    			document.getElementById("CNumber").value = x;
+				hlsLoad();
+		}
+	
+	}
+	
+	function Select(){
+		x = document.getElementById("CNumber").value;
+		if(x > (Channel.length-1)) x = (Channel.length-1);
+		document.getElementById("CNumber").value = x;
+		hlsLoad();
+		
+	}
+
+	</script>
+
+	<button onclick="Up()">Next</button>
+	<button onclick="Down()">Down</button>
+	<input type="number" id = "CNumber" name="CNumber" min = "0"> 
+        <button onClick="Select()">Select</button>
+      </div>
+       <h1 id="home">Popular on MCV Miratal TV</h1>
+          <div class="box">
+            <a href="play.html?channel=0"><img src="images/shirdi.gif" alt=""></a>
+            <a href="play.html?channel=1"><img src="images/3tamil.png" alt=""></a>
+            <a href="play.html?channel=2"><img src="images/7star.png" alt=""></a>
+            <a href="play.html?channel=3"><img src="images/abinaya.png" alt=""></a>
+            <a href="play.html?channel=4"><img src="images/austamil.png" alt=""></a>
+            <a href="play.html?channel=5"><img src="images/bama.png" alt=""></a>
+    
+            <a href="play.html?channel=6"><img src="images/durai.png" alt=""></a>
+            <a href="play.html?channel=7"><img src="images/gd.png" alt=""></a>
+            <a href="play.html?channel=8"><img src="images/gtv.png" alt=""></a>
+            <a href="play.html?channel=9"><img src="images/ibctamil.png" alt=""></a>
+            <a href="play.html?channel=10"><img src="images/imayam.png" alt=""></a>
+            <a href="play.html?channel=11"><img src="images/king.png" alt=""></a>  
+
+			<a href=""><img src="images/kumari.png" alt=""></a>
+			<a href=""><img src="images/mkp.png" alt=""></a>
+			<a href=""><img src="images/mn.png" alt=""></a>
+			<a href=""><img src="images/mnmusic.png" alt=""></a>
+			<a href=""><img src="images/murasu.png" alt=""></a>
+			<a href=""><img src="images/namathusangamum.png" alt=""></a> 
+
+			<a href=""><img src="images/nellaitimes.png" alt=""></a>
+			<a href=""><img src="images/sivantv.png" alt=""></a>
+			<a href=""><img src="images/smcv.png" alt=""></a>
+			<a href=""><img src="images/vasanth.png" alt=""></a>
+			<a href=""><img src="images/vinayaga.png" alt=""></a>
+			<a href=""><img src="images/vinayagamusic.png" alt=""></a>			
+          </div>
+      </div>
+
+      <h1 id="myList">Trending Now</h1>
+      <div class="box">
+        <a href=""><img src="images/kumari.png" alt=""></a>
+        <a href=""><img src="images/mkp.png" alt=""></a>
+        <a href=""><img src="images/mn.png" alt=""></a>
+        <a href=""><img src="images/mnmusic.png" alt=""></a>
+        <a href=""><img src="images/murasu.png" alt=""></a>
+        <a href=""><img src="images/namathusangamum.png" alt=""></a> 
+
+		<a href=""><img src="images/nellaitimes.png" alt=""></a>
+        <a href=""><img src="images/sivantv.png" alt=""></a>
+        <a href=""><img src="images/smcv.png" alt=""></a>
+        <a href=""><img src="images/vasanth.png" alt=""></a>
+        <a href=""><img src="images/vinayaga.png" alt=""></a>
+        <a href=""><img src="images/vinayagamusic.png" alt=""></a> 		
+      </div>
+      
+      <h1 id="tvShows">TV Shows</h1>
+      <div class="box">
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv1.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv2.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv3.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv4.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv5.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv6.PNG?raw=true" alt=""></a>
+
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv7.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv8.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv9.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv10.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv11.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv12.PNG?raw=true" alt=""></a>              
+      </div>
+      
+
+      <h1 id="movies">Blockbuster Action & Adventure</h1>
+      <div class="box">
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m1.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m2.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m3.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m4.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m5.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m6.PNG?raw=true" alt=""></a>                
+      </div>
+
+      <h1 id="originals">Netflix Originals</h1>
+      <div class="box">
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o1.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o2.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o3.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o4.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o5.PNG?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o6.PNG?raw=true" alt=""></a>                
+      </div>
+     
+    <!-- END OF MAIN CONTAINER -->
+
+    <!-- LINKS -->
+    <section class="link">
+      <div class="logos">
+        <a href="#"><i class="fab fa-facebook-square fa-2x logo"></i></a>
+        <a href="#"><i class="fab fa-instagram fa-2x logo"></i></a>
+        <a href="#"><i class="fab fa-twitter fa-2x logo"></i></a>
+        <a href="#"><i class="fab fa-youtube fa-2x logo"></i></a>
+      </div>
+      <div class="sub-links">
+        <ul>
+          <li><a href="#">Audio and Subtitles</a></li>
+          <li><a href="#">Audio Description</a></li>
+          <li><a href="#">Help Center</a></li>
+          <li><a href="#">Gift Cards</a></li>
+          <li><a href="#">Media Center</a></li>
+          <li><a href="#">Investor Relations</a></li>
+          <li><a href="#">Jobs</a></li>
+          <li><a href="#">Terms of Use</a></li>
+          <li><a href="#">Privacy</a></li>
+          <li><a href="#">Legal Notices</a></li>
+          <li><a href="#">Corporate Information</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </div>
+    </section>
+    <!-- END OF LINKS -->
+
+    <!-- FOOTER -->
+    <footer>
+      <p>&copy 1997-2018 Netflix, Inc.</p>
+      <p>Carlos Avila &copy 2018</p>
+    </footer>
+  </div>
+</body>
+</html>
