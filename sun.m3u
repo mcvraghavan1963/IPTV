@@ -33,11 +33,11 @@ http://212.102.60.231/NBA_TV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:40 tvg-chno="17" group-title="ENGLISH", NICK JR
 http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:40 tvg-chno="17" group-title="TAMIL", Star Vijay
+#EXTINF:40 tvg-chno="18" group-title="TAMIL", Star Vijay
 http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
-#EXTINF:40 tvg-chno="17" group-title="TAMIL", RAJ TV
+#EXTINF:40 tvg-chno="19" group-title="TAMIL", RAJ TV
 http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
-#EXTINF:40 tvg-chno="17" group-title="TAMIL", RAJ DIGITAL PLUS
+#EXTINF:40 tvg-chno="20" group-title="TAMIL", RAJ DIGITAL PLUS
 http://116.202.46.40:9023/RAJ_DIGITAL_PLUS_TAMIL/index.m3u8
 
 
