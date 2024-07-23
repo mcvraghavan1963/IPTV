@@ -1,63 +1,59 @@
 #EXTM3U
-#EXTINF:0,MY: SUN TV HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"   SUN TV HD
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
-#EXTINF:0,MY: SUN MUSIC HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"   SUN MUSIC HD
 http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
-#EXTINF:0,MY:SUN LIFE HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  SUN LIFE HD
 http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
-#EXTINF:0,MY: SUN TV HD1
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"   SUN TV HD1
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
-#EXTINF:0,MY: VIJAY HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"   VIJAY HD
+ 
 http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
-#EXTINF:0,MY:JAYA MAX HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  JAYA MAX HD
+ 
 http://116.202.46.40:9023/JAYA_MAX_TAMIL/index.m3u8
-#EXTINF:0,MY:COLORS TV HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  COLORS TV HD
+ 
 http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
-#EXTINF:0,MY:Sun news
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Sun news
+ 
 http://116.202.46.40:9023/SUN_NEWS_TAMIL/index.m3u8
-#EXTINF:0,MY:Zee news
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Zee news
+ 
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
-#EXTINF:0,MY:JAYA MOVIES HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  JAYA MOVIES HD
+ 
 http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
-#EXTINF:0,MY:ZEE TAMIL HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  ZEE TAMIL HD
+ 
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
-#EXTINF:0,MY:VIJAY SUPER HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  VIJAY SUPER HD
+ 
 http://116.202.46.40:9023/VIJAY_SUPER_TAMIL/index.m3u8
-#EXTINF:0,MY:JAYA TV HD
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  JAYA TV HD
+ 
 http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 #EXTINF:0,Thanthi one
-#EXTGRP:unsorted
+ 
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
-#EXTINF:0,MY:Isai aruvi
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Isai aruvi
+ 
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:0,MY:Adhitya
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Adhitya
+ 
 http://watchindia.net:8880/live/32031/33285/855.ts
-#EXTINF:0,MY:Thanthi
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Thanthi
+ 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/thanthi_nim_https/110322/thanthi/playlist.m3u8
-#EXTINF:0,MY:Puthiya thalaimurai
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Puthiya thalaimurai
+ 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8
-#EXTINF:0,MY:Polimer news
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Polimer news
+ 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
 #EXTINF:0,Rasi Tamil
-#EXTGRP:unsorted
+ 
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Udhir @ Poomara Kathu - 2024 | Tamil | CAM" tvg-logo="" group-title="Tamil Movies",Udhir @ Poomara Kathu - 2024 | Tamil | CAM
 http://b1g.ooo:80/movie/Miguel/Miguel/779454.mkv
@@ -282,9 +278,9 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:0,3 Tamil 
 #EXTGRP:International
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0,MY:Mecca
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Mecca
+ 
 http://m.live.net.sa:1935/live/quran/.m3u8
-#EXTINF:0,MY:Madeena
-#EXTGRP:unsorted
+#EXTINF:0, tvg-chno="4"  Madeena
+ 
 http://m.live.net.sa:1935/live/sunnah/.m3u8
