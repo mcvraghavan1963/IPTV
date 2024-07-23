@@ -1,39 +1,35 @@
 #EXTM3U 
-#EXTINF:40 group-title="TAMIL", Sun Music HD 
+#EXTINF:40 tvg-chno="1" group-title="TAMIL", Sun Music HD 
 http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
-#EXTINF:40 group-title="TAMIL", Sun TV HD 
+#EXTINF:40 tvg-chno="2" group-title="TAMIL", Sun TV HD 
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
-#EXTINF:21 group-title="TAMIL", SUN LIFE
+#EXTINF:21 tvg-chno="3" group-title="TAMIL", SUN LIFE
 http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
-#EXTINF:23 group-title="TAMIL", KTV
+#EXTINF:23 tvg-chno="4" group-title="TAMIL", KTV
 http://116.202.46.40:9023/KTV_TAMIL/index.m3u8
-#EXTINF:40 group-title="TAMIL", ZEE TAMIL
+#EXTINF:40 tvg-chno="5" group-title="TAMIL", ZEE TAMIL
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
-#EXTINF:20 group-title="TAMIL", COLORS TAMIL
+#EXTINF:20 tvg-chno="6" group-title="TAMIL", COLORS TAMIL
 http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
-#EXTINF:40 group-title="TAMIL", ZEE CINEMA
+#EXTINF:40 tvg-chno="7" group-title="TAMIL", ZEE CINEMA
 http://94.154.156.130:8080/zeecinema/index.m3u8
-#EXTINF:40 group-title="TAMIL", ZEE TELUGU
+#EXTINF:40 tvg-chno="8" group-title="TAMIL", ZEE TELUGU
 http://116.202.46.40:9023/ZEE_TELUGU/index.m3u8
-#EXTINF:40 group-title="TAMIL", VIJAY SUPER
+#EXTINF:40 tvg-chno="9" group-title="TAMIL", VIJAY SUPER
 http://116.202.46.40:9023/VIJAY_SUPER_TAMIL/index.m3u8
-#EXTINF:40 group-title="TAMIL", JAYA MAX
+#EXTINF:40 tvg-chno="10" group-title="TAMIL", JAYA MAX
 http://116.202.46.40:9023/JAYA_MAX_TAMIL/index.m3u8
-#EXTINF:40 group-title="TAMIL", JAYA TV
+#EXTINF:40 tvg-chno="11" group-title="TAMIL", JAYA TV
 http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
-#EXTINF:40 group-title="TAMIL", JAYA MOVIES
+#EXTINF:40 tvg-chno="12" group-title="TAMIL", JAYA MOVIES
 http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
-#EXTINF:40 group-title="ENGLISH", HBO
+#EXTINF:40 tvg-chno="13" group-title="ENGLISH", HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:40 group-title="ENGLISH", HBO FAMILY 
- 
+#EXTINF:40 tvg-chno="14" group-title="ENGLISH", HBO FAMILY 
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:40 group-title="ENGLISH", NBA
- 
+#EXTINF:40 tvg-chno="15" group-title="ENGLISH", NBA
 http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:40 group-title="ENGLISH", LIFETIME
- 
+#EXTINF:40 tvg-chno="16" group-title="ENGLISH", LIFETIME
 http://212.102.60.231/LIFETIME/index.m3u8
-#EXTINF:40 group-title="ENGLISH", NICK JR
- 
+#EXTINF:40 tvg-chno="17" group-title="ENGLISH", NICK JR
 http://212.102.60.231/NICK_JR/index.m3u8
