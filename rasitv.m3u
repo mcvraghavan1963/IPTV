@@ -39,6 +39,80 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
 #EXTINF:0,Rasi Tamil
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
+#EXTINF:0,Rasi Movies
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+#EXTGRP:Tamil Streams
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
+#EXTINF:0,Rasi Hollywood
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
+#EXTINF:0,Rasi Classic
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
+#EXTINF:0,Rasi Comedy
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/index.m3u8
+#EXTINF:0,Chithiram
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0,Raj Tv
+http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
+#EXTINF:0,Mega Tv
+http://ott1.co:8080/live/08042023/123456789/28141.ts
+#EXTINF:0,Polimer Tv
+http://xtv.ooo:8080/359052742/470428329/244564
+#EXTINF:0,DD Tamil
+http://xtv.ooo:8080/359052742/470428329/244522
+#EXTINF:0,Kalaignar
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:0,Kalaignar
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:0,Vijay Takkar
+http://ott1.co:8080/live/08042023/123456789/23869.ts
+#EXTINF:0,Mathimugam
+http://xtv.ooo:8080/359052742/470428329/244542
+#EXTINF:0,Imayam
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+#EXTINF:0,Moon Tv
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+#EXTINF:0,Peppers TV
+http://xtv.ooo:8080/359052742/470428329/244592
+#EXTINF:0,Raj Musix
+http://xtv.ooo:8080/359052742/470428329/244528
+#EXTINF:0,Kalaignar Murasu (576p) [Not 24/7]
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:0,Kumudam News 24x7
+https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
+#EXTINF:0,News Tamil 24x7
+https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+#EXTINF:0,Sanakia Tv
+https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+#EXTINF:0,Asianet News Tamil (360p) [Not 24/7]
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:0,Malaimurasu (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
+#EXTINF:0,Raj News Tamil (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+#EXTINF:0,News 18 Tamil (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+#EXTINF:0,News J (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
+#EXTINF:0,News18 Tamil Nadu
+https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+#EXTINF:0,News J
+https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
+#EXTINF:0,Puthiya Thalaimurai
+https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+#EXTINF:0,Raj News 24x7
+https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+#EXTINF:0,Thanthi TV
+https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
+#EXTINF:0,Kalaignar Seithigal
+https://mavenarts.in/jio/app/live/1210/null/index.m3u8
+#EXTINF:0,M Nadu
+https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
+#EXTINF:0,STAR SPORTS Tamil
+http://port.denver1769.in/j.php?tv=363
+#EXTINF:0,Kalaignar Sirippoli (576p)
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:0,Jaya Plus (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Udhir @ Poomara Kathu - 2024 | Tamil | CAM" tvg-logo="" group-title="Tamil Movies",Udhir @ Poomara Kathu - 2024 | Tamil | CAM
 http://b1g.ooo:80/movie/Miguel/Miguel/779454.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Maidaan - 2024 | Tamil" tvg-logo="" group-title="Tamil Movies",Maidaan - 2024 | Tamil
@@ -127,117 +201,6 @@ http://extraott.com:80/4183813400/7514985385/400159598
 #EXTINF:0,Jailer - 2023 | 4K
 #EXTGRP:4K Indian Movies
 http://b1g.ooo:80/movie/308442/308442/705826.mkv
-#EXTINF:0,Rasi Movies
-#EXTGRP:Tamil Streams
-http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
-#EXTINF:0,Rasi Music
-#EXTGRP:Tamil Streams
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
-#EXTINF:0,Rasi Hollywood
-#EXTGRP:Tamil Streams
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
-#EXTINF:0,Rasi Classic
-#EXTGRP:Tamil Streams
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
-#EXTINF:0,Rasi Comedy
-#EXTGRP:Local Channels
-http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/index.m3u8
-#EXTINF:0,Chithiram
-#EXTGRP:Tamil
-https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0,Raj Tv
-#EXTGRP:Tamil
-http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
-#EXTINF:0,Mega Tv
-#EXTGRP:Tamil
-http://ott1.co:8080/live/08042023/123456789/28141.ts
-#EXTINF:0,Polimer Tv
-#EXTGRP:Tamil
-http://xtv.ooo:8080/359052742/470428329/244564
-#EXTINF:0,DD Tamil
-#EXTGRP:Tamil
-http://xtv.ooo:8080/359052742/470428329/244522
-#EXTINF:0,Kalaignar
-#EXTGRP:Tamil
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#EXTINF:0,Kalaignar
-#EXTGRP:Tamil
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#EXTINF:0,Vijay Takkar
-#EXTGRP:Tamil
-http://ott1.co:8080/live/08042023/123456789/23869.ts
-#EXTINF:0,Mathimugam
-#EXTGRP:Tamil
-http://xtv.ooo:8080/359052742/470428329/244542
-#EXTINF:0,Imayam
-#EXTGRP:Tamil
-https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
-#EXTINF:0,Moon Tv
-#EXTGRP:Tamil
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
-#EXTINF:0,Peppers TV
-#EXTGRP:Tamil
-http://xtv.ooo:8080/359052742/470428329/244592
-#EXTINF:0,Raj Musix
-#EXTGRP:Music
-http://xtv.ooo:8080/359052742/470428329/244528
-#EXTINF:0,Kalaignar Murasu (576p) [Not 24/7]
-#EXTGRP:Music
-https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:0,Kumudam News 24x7
-#EXTGRP:News
-https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
-#EXTINF:0,News Tamil 24x7
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
-#EXTINF:0,Sanakia Tv
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
-#EXTINF:0,Asianet News Tamil (360p) [Not 24/7]
-#EXTGRP:News
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-#EXTINF:0,Malaimurasu (720p) [Not 24/7]
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
-#EXTINF:0,Raj News Tamil (720p) [Not 24/7]
-#EXTGRP:News
-https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
-#EXTINF:0,News 18 Tamil (720p) [Not 24/7]
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
-#EXTINF:0,News J (1080p) [Not 24/7]
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
-#EXTINF:0,News18 Tamil Nadu
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
-#EXTINF:0,News J
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
-#EXTINF:0,Puthiya Thalaimurai
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
-#EXTINF:0,Raj News 24x7
-#EXTGRP:News
-https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
-#EXTINF:0,Thanthi TV
-#EXTGRP:News
-https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
-#EXTINF:0,Kalaignar Seithigal
-#EXTGRP:News
-https://mavenarts.in/jio/app/live/1210/null/index.m3u8
-#EXTINF:0,M Nadu
-#EXTGRP:News
-https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
-#EXTINF:0,STAR SPORTS Tamil
-#EXTGRP:Sports
-http://port.denver1769.in/j.php?tv=363
-#EXTINF:0,Kalaignar Sirippoli (576p)
-#EXTGRP:Comedy
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:0,Jaya Plus (1080p) [Not 24/7]
-#EXTGRP:Undefined
-https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:0,Abu Dhabi Aloula
 #EXTGRP:General
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
