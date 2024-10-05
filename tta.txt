@@ -1,0 +1,403 @@
+#EXTM3U url-tvg="https://tinyurl.com/tta-epg"
+#EXTINF:-1 tvg-id="AandE(East).us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E
+https://v10.thetvapp.to/hls/AEEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="WABC (New York) ABC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Entertainment",ABC East (New York)
+https://v10.thetvapp.to/hls/WABCDT1/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Entertainment",ACC Network
+https://v10.thetvapp.to/hls/ACCNetwork/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Entertainment",AMC
+https://v10.thetvapp.to/hls/AMCEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entertainment",American Heroes Channel
+https://v10.thetvapp.to/hls/AmericanHeroesChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Entertainment",Animal Planet
+https://v10.thetvapp.to/hls/AnimalPlanetEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entertainment",BBC America
+https://v10.thetvapp.to/hls/BBCAmericaEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World News HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24448_dark_360w_270h.png" group-title="Entertainment",BBC World News HD
+https://v10.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entertainment",BET
+https://v10.thetvapp.to/hls/BETEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment",BET Her
+https://v10.thetvapp.to/hls/BETHerEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Entertainment",Big Ten Network
+https://v10.thetvapp.to/hls/BTN/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="Entertainment",Bloomberg TV
+https://v10.thetvapp.to/hls/BloombergTV/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Entertainment",Boomerang
+https://v10.thetvapp.to/hls/Boomerang/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Entertainment",Bravo
+https://v10.thetvapp.to/hls/BravoEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Entertainment",Cartoon Network
+https://v10.thetvapp.to/hls/CartoonNetworkEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="WCBS (New York) CBS East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Entertainment",CBS East (New York)
+https://v10.thetvapp.to/hls/WCBSDT1/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Entertainment",CBS Sports Network
+https://v10.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Entertainment",Cinemax
+https://v10.thetvapp.to/hls/CinemaxEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entertainment",CMT
+https://v10.thetvapp.to/hls/CMTEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Entertainment",CNBC
+https://v10.thetvapp.to/hls/CNBC/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Entertainment",CNN
+https://v10.thetvapp.to/hls/CNN/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entertainment",Comedy Central
+https://v10.thetvapp.to/hls/ComedyCentralEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment",Cooking Channel
+https://v10.thetvapp.to/hls/CookingChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="Entertainment",Crime & Investigation HD
+https://v10.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="CSPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Entertainment",CSPAN
+https://v10.thetvapp.to/hls/CSPAN/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="CSPAN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10162_dark_360w_270h.png" group-title="Entertainment",CSPAN 2
+https://v10.thetvapp.to/hls/CSPAN2/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="Entertainment",Destination America
+https://v10.thetvapp.to/hls/DestinationAmerica/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Entertainment",Discovery
+https://v10.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Entertainment",Discovery Family Channel
+https://v10.thetvapp.to/hls/DiscoveryFamily/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Entertainment",Discovery Life
+https://v10.thetvapp.to/hls/DiscoveryLife/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Entertainment",Disney Channel (East)
+https://v10.thetvapp.to/hls/DisneyChannelEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Entertainment",Disney Junior
+https://v10.thetvapp.to/hls/DisneyJuniorEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Entertainment",Disney XD
+https://v10.thetvapp.to/hls/DisneyXDEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" group-title="Entertainment",E!
+https://v10.thetvapp.to/hls/EEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Entertainment",ESPN
+https://v10.thetvapp.to/hls/ESPN/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Entertainment",ESPN2
+https://v10.thetvapp.to/hls/ESPN2/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Entertainment",ESPNews
+https://v10.thetvapp.to/hls/ESPNews/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Entertainment",ESPNU
+https://v10.thetvapp.to/hls/ESPNU/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment",Food Network
+https://v10.thetvapp.to/hls/FoodNetworkEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="WNYW (New York) FOX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Entertainment",FOX East (New York)
+https://v10.thetvapp.to/hls/WNYWDT1/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="Entertainment",Fox Business Network
+https://v10.thetvapp.to/hls/FoxBusiness/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Entertainment",FOX News Channel
+https://v10.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FOX Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Entertainment",FOX Sports 1
+https://v10.thetvapp.to/hls/FoxSports1/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FOX Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59305_dark_360w_270h.png" group-title="Entertainment",FOX Sports 2
+https://v10.thetvapp.to/hls/FoxSports2/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Entertainment",Freeform
+https://v10.thetvapp.to/hls/FreeformEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Entertainment",Fuse HD
+https://v10.thetvapp.to/hls/FuseEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Entertainment",FX
+https://v10.thetvapp.to/hls/FXEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="Entertainment",FX Movie
+https://v10.thetvapp.to/hls/FXMovieChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Entertainment",FXX
+https://v10.thetvapp.to/hls/FXXEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="Entertainment",FYI
+https://v10.thetvapp.to/hls/FYIEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Entertainment",Golf Channel
+https://v10.thetvapp.to/hls/GolfChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Entertainment",Hallmark
+https://v10.thetvapp.to/hls/HallmarkChannelEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Drama HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="Entertainment",Hallmark Drama HD
+https://v10.thetvapp.to/hls/HallmarkDrama/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46710_dark_360w_270h.png" group-title="Entertainment",Hallmark Movies & Mysteries HD
+https://v10.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment",HBO 2 East
+https://v10.thetvapp.to/hls/HBO2East/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Entertainment",HBO Comedy HD
+https://v10.thetvapp.to/hls/HBOComedyEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Entertainment",HBO East
+https://v10.thetvapp.to/hls/HBOEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Entertainment",HBO Family East
+https://v10.thetvapp.to/hls/HBOFamilyEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Entertainment",HBO Signature
+https://v10.thetvapp.to/hls/HBOSignatureEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Entertainment",HBO Zone HD
+https://v10.thetvapp.to/hls/HBOZoneEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Entertainment",HGTV
+https://v10.thetvapp.to/hls/HGTVEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="Entertainment",History
+https://v10.thetvapp.to/hls/HistoryEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Entertainment",HLN
+https://v10.thetvapp.to/hls/HLN/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="Entertainment",IFC
+https://v10.thetvapp.to/hls/IFCEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Entertainment",Investigation Discovery
+https://v10.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION Television East HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Entertainment",ION Television East HD
+https://v10.thetvapp.to/hls/IONTVEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Entertainment",Lifetime
+https://v10.thetvapp.to/hls/LifetimeEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Entertainment",LMN
+https://v10.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Entertainment",Logo
+https://v10.thetvapp.to/hls/LogoEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="" tvg-name="MeTV Toons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Entertainment",MeTV Toons
+https://v10.thetvapp.to/hls/metv-toons/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Entertainment",MLB Network
+https://v10.thetvapp.to/hls/MLBNetwork/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="MoreMAX.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Entertainment",MoreMAX
+https://v10.thetvapp.to/hls/MoreMaxEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Entertainment",MotorTrend HD
+https://v10.thetvapp.to/hls/Motortrend/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25621_dark_360w_270h.png" group-title="Entertainment",MovieMAX
+https://v10.thetvapp.to/hls/MovieMaxEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="Entertainment",MSNBC
+https://v10.thetvapp.to/hls/MSNBC/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Entertainment",MTV
+https://v10.thetvapp.to/hls/MTVEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="Nat Geo WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Entertainment",Nat Geo WILD
+https://v10.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Entertainment",National Geographic
+https://v10.thetvapp.to/hls/NationalGeographicEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Entertainment",NBA TV
+https://v10.thetvapp.to/hls/NBATV/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="WNBC (New York) NBC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Entertainment",NBC East(New York)
+https://v10.thetvapp.to/hls/WNBCDT1/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="Entertainment",Newsmax TV
+https://v10.thetvapp.to/hls/NewsmaxTV/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="Entertainment",NFL Network
+https://v10.thetvapp.to/hls/NFLNetwork/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL Red Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65025_dark_360w_270h.png" group-title="Entertainment",NFL Red Zone
+https://v10.thetvapp.to/hls/NFLRedZone/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Entertainment",NHL Network
+https://v10.thetvapp.to/hls/NHLNetwork/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Entertainment",Nick Jr.
+https://v10.thetvapp.to/hls/NickJrEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Entertainment",Nickelodeon East
+https://v10.thetvapp.to/hls/NickelodeonEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Entertainment",Nicktoons
+https://v10.thetvapp.to/hls/NicktoonsEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Entertainment",Outdoor Channel
+https://v10.thetvapp.to/hls/OutdoorChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="OWN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png" group-title="Entertainment",OWN
+https://v10.thetvapp.to/hls/OWNEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen True Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="Entertainment",Oxygen True Crime
+https://v10.thetvapp.to/hls/OxygenEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="WNET.us" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="Entertainment",PBS 13 (WNET) New York
+https://v10.thetvapp.to/hls/WNET/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Entertainment",ReelzChannel
+https://v10.thetvapp.to/hls/Reelz/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16616_dark_360w_270h.png" group-title="Entertainment",Science
+https://v10.thetvapp.to/hls/sciencEEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Entertainment",SEC Network
+https://v10.thetvapp.to/hls/SECN/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Entertainment",Showtime (E)
+https://v10.thetvapp.to/hls/ShowtimeEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Entertainment",SHOWTIME 2
+https://v10.thetvapp.to/hls/Showtime2East/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Starz(Pacific).us" tvg-name="STARZ East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Entertainment",STARZ East
+https://v10.thetvapp.to/hls/StarzEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Entertainment",SundanceTV HD
+https://v10.thetvapp.to/hls/SundanceTVEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Entertainment",SYFY
+https://v10.thetvapp.to/hls/SyfyEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Entertainment",TBS
+https://v10.thetvapp.to/hls/TBSEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Entertainment",TCM
+https://v10.thetvapp.to/hls/TCMEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="Entertainment",TeenNick
+https://v10.thetvapp.to/hls/TeenNickEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Entertainment",Telemundo East
+https://v10.thetvapp.to/hls/TelemundoEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Entertainment",Tennis Channel
+https://v10.thetvapp.to/hls/TennisChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="WPIX.us" tvg-name="The CW (WPIX New York)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Entertainment",The CW (WPIX New York)
+https://v10.thetvapp.to/hls/WPIX/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="The Movie Channel East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11160_dark_360w_270h.png" group-title="Entertainment",The Movie Channel East
+https://v10.thetvapp.to/hls/TheMovieChannelEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="Entertainment",The Weather Channel
+https://v10.thetvapp.to/hls/TheWeatherChannel/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Entertainment",TLC
+https://v10.thetvapp.to/hls/TLCEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment",TNT
+https://v10.thetvapp.to/hls/TNTEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Travel Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="Entertainment",Travel Channel
+https://v10.thetvapp.to/hls/TravelChannelEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment",truTV
+https://v10.thetvapp.to/hls/truTVEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="TVONE.us" tvg-name="TV One HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="Entertainment",TV One HD
+https://v10.thetvapp.to/hls/TVOne/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47540_dark_360w_270h.png" group-title="Entertainment",Universal Kids
+https://v10.thetvapp.to/hls/UniversalKidsEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Entertainment",Univision East
+https://v10.thetvapp.to/hls/UnivisionEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Entertainment",USA Network
+https://v10.thetvapp.to/hls/USANetworkEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
+https://v10.thetvapp.to/hls/VH1East/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Entertainment",VICE
+https://v10.thetvapp.to/hls/vicEEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="Entertainment",WE tv
+https://v10.thetvapp.to/hls/WeTVEast/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="9605588adc005489d3199f4ddc83239c" tvg-name="Boston Celtics vs. Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",12:00 PM - Boston Celtics vs. Denver Nuggets - 12:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/NBATV/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="4a1d0f06fdb50a003f167dd381b32d97" tvg-name="New Zealand Breakers vs. Utah Jazz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",9:00 PM - New Zealand Breakers vs. Utah Jazz - 09:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/NBA01/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="0739f974963bc08ff45ce8a47617702f" tvg-name="Minnesota Timberwolves vs. Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",10:30 PM - Minnesota Timberwolves vs. Los Angeles Lakers - 10:30 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/NBATV/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="145df1685dd06db457ac6542ffa7bcb2" tvg-name="New Jersey Devils vs. Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",1:10 PM - New Jersey Devils vs. Buffalo Sabres - 01:10 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/NHLNetwork/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="d968e2493918fa7e69dabc9aafcced6a" tvg-name="Ottawa Senators vs. Detroit Red Wings" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Ottawa Senators vs. Detroit Red Wings - 07:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/NHLNetwork/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="6b71ce52758e7779d864bfc866c3c4b2" tvg-name="Columbus Blue Jackets vs. Pittsburgh Penguins" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Columbus Blue Jackets vs. Pittsburgh Penguins - 07:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="2aad25d15cdf2747f36468a7ceea2885" tvg-name="New York Rangers vs. New York Islanders" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - New York Rangers vs. New York Islanders - 07:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/MSG/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="c570b50c41d5ac615ba87dac8e58e9f2" tvg-name="Minnesota Wild vs. Chicago Blackhawks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:30 PM - Minnesota Wild vs. Chicago Blackhawks - 08:30 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/bally-sports-north/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="714c30bc7e42388a3b81bc0758d5dd9a" tvg-name="Winnipeg Jets vs. Calgary Flames" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",9:00 PM - Winnipeg Jets vs. Calgary Flames - 09:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/tsn3/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="29efa715e7b19189eb2a89881aa73161" tvg-name="Edmonton Oilers vs. Vancouver Canucks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Edmonton Oilers vs. Vancouver Canucks - 10:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/NHLNetwork/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="1579203001810166b4aedb8716220837" tvg-name="Jacksonville State Gamecocks vs. Kennesaw State Owls" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - Jacksonville State Gamecocks vs. Kennesaw State Owls - 07:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="54adeaf3e075863745286ec67cdf2993" tvg-name="Houston Cougars vs. TCU Horned Frogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:30 PM - Houston Cougars vs. TCU Horned Frogs - 07:30 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/ESPN/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="c25c8cad5f40f47e256b3d1189f3a188" tvg-name="Michigan State Spartans vs. Oregon Ducks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - Michigan State Spartans vs. Oregon Ducks - 09:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/WNYWDT1/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="f188b8be65e29ba7d28f754cea88cc34" tvg-name="Syracuse Orange vs. UNLV Rebels" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - Syracuse Orange vs. UNLV Rebels - 09:00 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/FoxSports1/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="5f13b5ddcfa4a1590ee79671a649869b" tvg-name="Minnesota Lynx vs. Connecticut Sun" tvg-logo="https://raw.githubusercontent.com/dtankdempse/thetvapp-m3u/refs/heads/main/images/wnba-1-logo-png-transparent%5B1%5D.png" group-title="WNBA Basketball",7:30 PM - Minnesota Lynx vs. Connecticut Sun - 07:30 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/ESPN2/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
+#EXTINF:-1 tvg-id="a17a8eefe445cc5f67008f114f00bb42" tvg-name="New York Liberty vs. Las Vegas Aces" tvg-logo="https://raw.githubusercontent.com/dtankdempse/thetvapp-m3u/refs/heads/main/images/wnba-1-logo-png-transparent%5B1%5D.png" group-title="WNBA Basketball",9:30 PM - New York Liberty vs. Las Vegas Aces - 09:30 PM EDT - (10/04/2024)
+https://v10.thetvapp.to/hls/ESPN2/index.m3u8?token=d1NSN2RObmZXR2RFOUJLS2ttQnJuUVlwYmoxS2x0cExJVzE4RTBqQg==
+
