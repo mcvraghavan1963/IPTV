@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1,DAZN Womens Sports (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomensport-samsungnz/playlist.m3u8
+#EXTINF:-1,Cricket Gold (Australia) via plex source
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1,Cricket Gold (Australia) Test stream via Stirr source
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1,PGA Tour (NZ)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_nz_pgatour_001.m3u8
+#EXTINF:-1,Outdoor Channel (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Fuel TV (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvnz-samsungnz/playliist.m3u8
+#EXTINF:-1,Trace Sports Stars (NZ)
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Red Bull TV (NZ)
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1,INFAST (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+#EXTINF:-1,INTROUBLE (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz-samsungnz/playlist.m3u8
+#EXTINF:-1,INWONDER (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
+#EXTINF:-1,INWILD (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Surfer (NZ)
+https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
+#EXTINF:-1,Mav TV Motorsports Network  (NZ)
+https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8
+#EXTINF:-1,Mtrsprt 1 (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
+#EXTINF:-1,Fifa Plus (Australia) Temp
+https://97795926.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1,Motorsport.tv (Australia) Temp
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+#EXTINF:-1,Horse and Country Free (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+#EXTINF:-1,NatureTime (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
+#EXTINF:-1,Real Crime (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1,True Crime Now (NZ)
+https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungnz/playlist.m3u8
+#EXTINF:-1,History and Warfare Now (NZ)
+https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8
+#EXTINF:-1,History Hit (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1,Magellan TV Now (NZ)
+https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8
+#EXTINF:-1,PBS History (NZ)
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+#EXTINF:-1,Waterbear (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnz/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals (NZ)
+https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Stories (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Wonder (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+#EXTINF:-1,Real Life (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+#EXTINF:-1,Real Wild (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Pulse TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1,RCM (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1,Action Hollywood Movies (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,Bounty (NZ)
+https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Vevo Christmas (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungnz/playlist.m3u8
+#EXTINF:-1,Vevo Pop (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1,Vevo Retro Rock (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1,Vevo 2K (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1,Vevo Country (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+#EXTINF:-1,Vevo 70's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+#EXTINF:-1,Vevo 80's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+#EXTINF:-1,Vevo 90's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+#EXTINF:-1,Now 70's (NZ)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80's (NZ)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 90's (NZ)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Urban (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1,Clubbing TV (NZ)
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Kartoon Channel (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1,Duck TV (NZ)
+https://d2lqf4qmkxuiyv.cloudfront.net/playlist.m3u8
+#EXTINF:-1,PBS Kids (NZ)
+https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+#EXTINF:-1,Care Bears (NZ)
+https://amg00353-amg00353c16-samsung-nz-2519.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-carebearsau-samsungnz/playlist.m3u8
+#EXTINF:-1,Ryan and Friends (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1,Zoo Moo (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1,Entertainment Hub (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8
+#EXTINF:-1,The Chatshow Channel (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1,ITV Choice Temp (AU) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-itvchoice-samsungau/playlist.m3u8
+#EXTINF:-1,Life Downunder (NZ)
+https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Dust Alien Nation (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Haunt TV (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8
+#EXTINF:-1,Drybar Comedy (NZ)
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Made in Hollywood (NZ)
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pet Club TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1,Mythbusters (NZ)
+https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8
+EXTINF:-1,Baywatch Remastered (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
+#EXTINF:-1,Conan OBrien TV (Australia)
+https://d1di0xodeo3g8i.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Wicked Tuna (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1,PBS Antique Road Trip (NZ)
+https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+#EXTINF:-1,Deal or no Deal (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-samsungnz/playlist.m3u8
+#EXTINF:-1,Highway Thru Hell (NZ)
+https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungnz/playlist.m3u8
+#EXTINF:-1,Hardcore Pawn (NZ)
+https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungnz/playlist.m3u8
+#EXTINF:-1,Wipeout Xtra (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtranz-samsungnz/playlist.m3u8
+#EXTINF:-1,Bondi Vet (NZ)
+https://wtfn-bondivet-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Biggest Loser (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestloser-samsungnz/playlist.m3u8
+#EXTINF:-1,Fear Factor (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8
+#EXTINF:-1,Mcleods Daughters (NZ)
+https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
+#EXTINF:-1,Ghost Hunters Channel (Australia)
+https://6d442984.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9HaG9zdEh1bnRlcnNfSExT/playlist.m3u8
+#EXTINF:-1,Survivor (NZ)
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1,Four in a Bed (NZ)
+https://all3media-four-in-a-bed-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV (NZ)
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Breaking News Lead Story (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+#EXTINF:-1,EuroNews World (NZ)
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,GB News (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Ausbiz TV (NZ)
+https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Tastemade International (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1,The Design Network (NZ)
+https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Homeful Channel (NZ)
+https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
+#EXTINF:-1,Travel XP (NZ)
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gusto TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Powernation (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Motorvision.TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Revry (NZ)
+https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
+#EXTINF:-1,Stingray Naturescape
+https://1fdcca9feb9c4e75bda1c6b0339175fe.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_StingrayNaturescape/playlist.m3u8
+#EXTINF:-1,Fireplace TV 4K
+https://d27omhseb6pn06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5dtvkvuar6h4t/playlist.m3u8
