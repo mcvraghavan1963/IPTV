@@ -145,3 +145,5 @@ http://humsab.xyz/IND_VijaySuper/index.m3u8
 http://humsab.xyz/IN_ZEETAMILHD/index.m3u8
 #EXTINF:22 tvg-chno="41" group-title="Tamil", Zee Thirai
 http://humsab.xyz/IN_ZT/index.m3u8
+#EXTINF:22 tvg-chno="41" group-title="Tamil", Vasantham
+https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
