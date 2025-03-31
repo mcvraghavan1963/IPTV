@@ -3,6 +3,8 @@
 https://cam3.pc.cdn.bitgravity.com/cam/live/shreesaibaba1/tataplay/chunklist.m3u8?e=1678168831&h=1fc7008074de1046b573cf96f63535b5
 #EXTINF:18 tvg-chno="1" group-title="Tamil",  Shirdi2
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/airtel/chunklist.m3u8?e=1743424884&h=e96b72ec509c634570b3d58584b91166
+#EXTINF:18 tvg-chno="1" group-title="Tamil",  kamakodi 
+https://stream.kamakoti.tv/memfs/bf121d48-0da6-4a47-a117-a952d193846d_output_0.m3u8?session=iuoSvRx6PUfEHeqBWipT9Z
 #EXTINF:18 tvg-chno="1" group-title="Tamil",  Aadhavan
 https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8?md5=rGYHpVdwOviHW7q-0snkSA&expires=1717829898
 #EXTINF:18 tvg-chno="2" group-title="Tamil",  MPK
