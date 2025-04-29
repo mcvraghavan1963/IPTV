@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:18 tvg-chno="1" group-title="Tamil",  Shirdi
 https://cam3.pc.cdn.bitgravity.com/cam/live/shreesaibaba1/tataplay/chunklist.m3u8?e=1678168831&h=1fc7008074de1046b573cf96f63535b5
+#EXTINF:18 tvg-chno="1" group-title="Tamil",  GTA Tamil
+http://144.217.77.42:8888/gta_tamil/tracks-v1a1/mono.m3u8
+#EXTINF:18 tvg-chno="1" group-title="Tamil",  Sigaram
+http://7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8
+#EXTINF:18 tvg-chno="1" group-title="Tamil", Vanavil
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:18 tvg-chno="1" group-title="Tamil", Krishna
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:18 tvg-chno="1" group-title="Tamil", Moon
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:18 tvg-chno="1" group-title="Tamil",  Shirdi2
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/airtel/chunklist.m3u8?e=1743424884&h=e96b72ec509c634570b3d58584b91166
 #EXTINF:18 tvg-chno="1" group-title="Tamil",  kamakodi 
@@ -111,3 +121,5 @@ https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//p
 https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
 #EXTINF:0,Kalaignar Sirippoli (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:0,RCN
+https://live.we2live.in/rcntv/rcntv/playlist.m3u8
