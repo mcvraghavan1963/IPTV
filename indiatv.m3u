@@ -1,0 +1,1965 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="Tamil", &flix HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="Tamil", &flix HD (#)
+http://116.90.120.151:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="Tamil", &pictures HD
+http://103.154.3.101:5001/live/185.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="Tamil", &pictures
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 tvg-chno="5" group-title="Tamil", &prive
+http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 tvg-chno="6" group-title="Tamil", &prive HD
+http://116.90.120.151:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="Tamil", &xplor HD
+https://mini.allinonereborn.fun/tata.php?id=11619
+#EXTINF:-1 tvg-chno="8" group-title="Tamil", &TV HD
+http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="Tamil", &TV
+http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 tvg-chno="10" group-title="Tamil", &TV (#)
+http://103.229.254.25:7001/play/a09v/index.m3u8
+#EXTINF:-1 tvg-chno="11" group-title="Tamil", &TV (#)
+http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 tvg-chno="12" group-title="Tamil", 1st India
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="Tamil", 4TV News
+https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 tvg-chno="14" group-title="Tamil", 5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" group-title="Tamil", 6 TV Telugu
+https://cdn-1.pishow.tv/live/232/master.m3u8
+#EXTINF:-1 tvg-chno="16" group-title="Tamil", 7S Music
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-chno="17" group-title="Tamil", 9X Jhakaas
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="Tamil", 9X Jhakaas (#)
+https://cdn-3.pishow.tv/live/6/master.m3u8
+#EXTINF:-1 tvg-chno="19" group-title="Tamil", 9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-chno="20" group-title="Tamil", 9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="Tamil", 10 TV
+https://cdn-1.pishow.tv/live/391/master.m3u8
+#EXTINF:-1 tvg-chno="22" group-title="Tamil", 22 Scope News
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="23" group-title="Tamil", 99 TV
+https://cdn-1.pishow.tv/live/1211/master.m3u8
+#EXTINF:-1 tvg-chno="24" group-title="Tamil", Aadinath TV
+https://mumt01.tangotv.in/AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-chno="25" group-title="Tamil", Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-chno="26" group-title="Tamil", Aaj Tak (#)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-chno="27" group-title="Tamil", Aaj Tak (#)
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+#EXTINF:-1 tvg-chno="28" group-title="Tamil", Aaj Tak (#)
+http://103.213.31.109:90/AajtakHD/playlist.m3u8
+#EXTINF:-1 tvg-chno="29" group-title="Tamil", Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-chno="30" group-title="Tamil", Aamar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="31" group-title="Tamil", Aaseervatham TV
+https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
+#EXTINF:-1 tvg-chno="32" group-title="Tamil", Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-chno="33" group-title="Tamil", Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="34" group-title="Tamil", Aastha Bhajan (#)
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="35" group-title="Tamil", Aastha Gujarati
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="36" group-title="Tamil", Aastha Gujarati (#)
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="37" group-title="Tamil", Aastha Kannada
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="38" group-title="Tamil", Aastha Kannada (#)
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="39" group-title="Tamil", Aastha Prime 1
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
+#EXTINF:-1 tvg-chno="40" group-title="Tamil", Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="41" group-title="Tamil", Aastha Telugu
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="42" group-title="Tamil", Aastha Telugu (#)
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="43" group-title="Tamil", ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-chno="44" group-title="Tamil", ABN Andhra Jyoti
+https://cdn-1.pishow.tv/live/407/master.m3u8
+#EXTINF:-1 tvg-chno="45" group-title="Tamil", ABP Asmita
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+#EXTINF:-1 tvg-chno="46" group-title="Tamil", ABP Ganga
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-chno="47" group-title="Tamil", ABP Majha
+https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
+#EXTINF:-1 tvg-chno="48" group-title="Tamil", ABP Majha (#)
+https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
+#EXTINF:-1 tvg-chno="49" group-title="Tamil", ABP News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+#EXTINF:-1 tvg-chno="50" group-title="Tamil", Adhyatm TV
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+#EXTINF:-1 tvg-chno="51" group-title="Tamil", Adithya TV
+http://103.140.254.2:3500/live/709.m3u8
+#EXTINF:-1 tvg-chno="52" group-title="Tamil", Adithya TV (#)
+http://111.88.78.21:8000/play/a0zk/index.m3u8
+#EXTINF:-1 tvg-chno="53" group-title="Tamil", AKD Calcutta News
+https://cdn-2.pishow.tv/live/237/master.m3u8
+#EXTINF:-1 tvg-chno="54" group-title="Tamil", AKD Calcutta News (#)
+https://live.legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:-1 tvg-chno="55" group-title="Tamil", Alankar TV
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" group-title="Tamil", Adithya TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0571/master.m3u8
+#EXTINF:-1 tvg-chno="57" group-title="Tamil", All Time Movies
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="58" group-title="Tamil", All Time Movies (#)
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="59" group-title="Tamil", AmarUjala
+https://amarujala.ottlive.co.in/amarujala/index.m3u8
+#EXTINF:-1 tvg-chno="60" group-title="Tamil", Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="61" group-title="Tamil", Anand TV
+https://live.legitpro.co.in/anandtv/index.m3u8
+#EXTINF:-1 tvg-chno="62" group-title="Tamil", Ananda TV
+http://103.99.249.139/anandatv/index.m3u8
+#EXTINF:-1 tvg-chno="63" group-title="Tamil", Anandam Abi TV
+https://mumt02.tangotv.in/ABITV/index.m3u8
+#EXTINF:-1 tvg-chno="64" group-title="Tamil", Anandam TV
+https://mumt02.tangotv.in/ANANDAMTV/index.m3u8
+#EXTINF:-1 tvg-chno="65" group-title="Tamil", ANB News
+https://server.livelegitpro.in:9899/anbnews/anbnews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="66" group-title="Tamil", ANB News (#)
+https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
+#EXTINF:-1 tvg-chno="67" group-title="Tamil", Ananda Barta
+https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
+#EXTINF:-1 tvg-chno="68" group-title="Tamil", Angel TV Africa
+https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="69" group-title="Tamil", Angel TV Europe
+https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="70" group-title="Tamil", Angel TV Russian
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="71" group-title="Tamil", Anjan TV
+https://anjantv.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="72" group-title="Tamil", Anjan TV (#)
+https://cdn-1.pishow.tv/live/993/master.m3u8
+#EXTINF:-1 tvg-chno="73" group-title="Tamil", Anjan TV (#)
+https://cdn-1.pishow.tv/live/993/master.m3u8
+#EXTINF:-1 tvg-chno="74" group-title="Tamil", Anmol Cinema
+http://iptvcasomsapi.jprdigital.in/x-media/C0549/master.m3u8
+#EXTINF:-1 tvg-chno="75" group-title="Tamil", Anmol Cinema (#)
+http://116.90.120.151:8000/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-chno="76" group-title="Tamil", Anmol Cinema 2
+http://110.39.27.47:8001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-chno="77" group-title="Tamil", Anmol Cinema 2 (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0541/master.m3u8
+#EXTINF:-1 tvg-chno="78" group-title="Tamil", Anmol TV
+http://163.61.227.29:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-chno="79" group-title="Tamil", ANN News
+https://cdn.ottlive.co.in/annnews/index.m3u8
+#EXTINF:-1 tvg-chno="80" group-title="Tamil", ANN News (#)
+https://legitpro.co.in/annnews/annnews/index.m3u8
+#EXTINF:-1 tvg-chno="81" group-title="Tamil", APN
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-chno="82" group-title="Tamil", APN (#)
+https://mumt01.tangotv.in/APN/index.m3u8
+#EXTINF:-1 tvg-chno="83" group-title="Tamil", Apna Punjab
+https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8
+#EXTINF:-1 tvg-chno="84" group-title="Tamil", Aradana
+https://cdn-1.pishow.tv/live/961/master.m3u8
+#EXTINF:-1 tvg-chno="85" group-title="Tamil", Aryan TV National
+https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
+#EXTINF:-1 tvg-chno="86" group-title="Tamil", Asianet
+http://111.88.78.21:8000/play/a0pf/index.m3u8
+#EXTINF:-1 tvg-chno="87" group-title="Tamil", Asianet HD
+http://103.157.248.140:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-chno="88" group-title="Tamil", Asianet Middle East
+https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
+#EXTINF:-1 tvg-chno="89" group-title="Tamil", Asianet News
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/9bd4a057-456d-43de-b887-7b87b021f1cc/3.m3u8
+#EXTINF:-1 tvg-chno="90" group-title="Tamil", Asianet News Kannada
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8
+#EXTINF:-1 tvg-chno="91" group-title="Tamil", Asianet Plus
+http://111.88.78.21:8000/play/a0z4/index.m3u8
+#EXTINF:-1 tvg-chno="92" group-title="Tamil", Asianet Plus (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0475/master.m3u8
+#EXTINF:-1 tvg-chno="93" group-title="Tamil", Asianet Suvarna News
+https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 tvg-chno="94" group-title="Tamil", Assam Talks
+https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
+#EXTINF:-1 tvg-chno="95" group-title="Tamil", Awaaz India
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-chno="96" group-title="Tamil", Awaaz India (#)
+https://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd
+#EXTINF:-1 tvg-chno="97" group-title="Tamil", Awaaz India (#)
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-chno="98" group-title="Tamil", Awakening
+https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8
+#EXTINF:-1 tvg-chno="99" group-title="Tamil", Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-chno="100" group-title="Tamil", B4U Hitz
+http://115.42.65.142:9981/stream/channelid/1099703605
+#EXTINF:-1 tvg-chno="101" group-title="Tamil", B4U Movies
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="102" group-title="Tamil", B4U Movies APAC
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
+#EXTINF:-1 tvg-chno="103" group-title="Tamil", B4U Music APAC
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-chno="104" group-title="Tamil", B4U Music APAC (#)
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
+#EXTINF:-1 tvg-chno="105" group-title="Tamil", Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-chno="106" group-title="Tamil", Bansal News
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="107" group-title="Tamil", Bansal News (#)
+https://cdn-2.pishow.tv/live/1051/master.m3u8
+#EXTINF:-1 tvg-chno="108" group-title="Tamil", Bansal News (#)
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="109" group-title="Tamil", Bhakthi TV
+https://cdn-1.pishow.tv/live/397/master.m3u8
+#EXTINF:-1 tvg-chno="110" group-title="Tamil", Bhakti Sagar
+https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-chno="111" group-title="Tamil", Bharat 24
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="112" group-title="Tamil", Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+#EXTINF:-1 tvg-chno="113" group-title="Tamil", Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-chno="114" group-title="Tamil", Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="115" group-title="Tamil", Big Magic
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 tvg-chno="116" group-title="Tamil", Big Magic (#)
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 tvg-chno="117" group-title="Tamil", Big TV
+https://cdn-1.pishow.tv/live/1059/master.m3u8
+#EXTINF:-1 tvg-chno="118" group-title="Tamil", Big TV 24x7
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+#EXTINF:-1 tvg-chno="119" group-title="Tamil", Brio TV
+https://mumt02.tangotv.in/BRIOTV/index.m3u8
+#EXTINF:-1 tvg-chno="120" group-title="Tamil", Bollywood HD
+http://103.213.31.109:90/BollywoodHD/playlist.m3u8
+#EXTINF:-1 tvg-chno="121" group-title="Tamil", Bollywood Classic
+http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
+#EXTINF:-1 tvg-chno="122" group-title="Tamil", BRK News
+https://cdn-1.pishow.tv/live/1037/master.m3u8
+#EXTINF:-1 tvg-chno="123" group-title="Tamil", BS TV
+https://mumt02.tangotv.in/BSTV/index.m3u8
+#EXTINF:-1 tvg-chno="124" group-title="Tamil", BT TV
+https://feeds.intoday.in/bttv/itgd.m3u8
+#EXTINF:-1 tvg-chno="125" group-title="Tamil", BVG
+https://mumt05.tangotv.in/BVG/index.m3u8
+#EXTINF:-1 tvg-chno="126" group-title="Tamil", C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-chno="127" group-title="Tamil", Calvary TV
+https://mumt04.tangotv.in/CALVARYTV/index.m3u8
+#EXTINF:-1 tvg-chno="128" group-title="Tamil", Captain
+https://mumt01.tangotv.in/CAPTAIN/index.m3u8
+#EXTINF:-1 tvg-chno="129" group-title="Tamil", Captain (#)
+https://mumt01.tangotv.in/CAPTAIN/index.m3u8
+#EXTINF:-1 tvg-chno="130" group-title="Tamil", Channel Divya
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+#EXTINF:-1 tvg-chno="131" group-title="Tamil", Channel WIN
+https://cdn-4.pishow.tv/live/229/master.m3u8
+#EXTINF:-1 tvg-chno="132" group-title="Tamil", Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="133" group-title="Tamil", Chardikla Gurbaani TV
+https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="134" group-title="Tamil", Chardikla Time TV
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+#EXTINF:-1 tvg-chno="135" group-title="Tamil", Chardikla Time TV North America
+https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+#EXTINF:-1 tvg-chno="136" group-title="Tamil", Chaukas TV
+https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
+#EXTINF:-1 tvg-chno="137" group-title="Tamil", Chintu TV
+http://103.140.254.2:3500/live/555.m3u8
+#EXTINF:-1 tvg-chno="138" group-title="Tamil", Chithiram
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 tvg-chno="139" group-title="Tamil", Chutti TV
+http://103.140.254.2:3500/live/557.m3u8
+#EXTINF:-1 tvg-chno="140" group-title="Tamil", Chutti TV (#)
+http://111.88.78.21:8000/play/a0z5/index.m3u8
+#EXTINF:-1 tvg-chno="141" group-title="Tamil", Chutti TV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0572/master.m3u8
+#EXTINF:-1 tvg-chno="142" group-title="Tamil", Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+#EXTINF:-1 tvg-chno="143" group-title="Tamil", CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="144" group-title="Tamil", CNBC Bajar
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="145" group-title="Tamil", CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-chno="146" group-title="Tamil", CNBC TV18 Prime
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-chno="147" group-title="Tamil", Cnews Bharat
+https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="148" group-title="Tamil", CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-chno="149" group-title="Tamil", Colors
+http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 tvg-chno="150" group-title="Tamil", Colors (#)
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-chno="151" group-title="Tamil", Colors Bangla
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-chno="152" group-title="Tamil", Colors Bangla (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0464/master.m3u8
+#EXTINF:-1 tvg-chno="153" group-title="Tamil", Colors Bangla Cinema
+http://111.88.78.21:8000/play/a0zo/index.m3u8
+#EXTINF:-1 tvg-chno="154" group-title="Tamil", Colors Bangla Cinema (#)
+http://116.90.120.151:8000/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-chno="155" group-title="Tamil", Colors Bangla Cinema (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0069/master.m3u8
+#EXTINF:-1 tvg-chno="156" group-title="Tamil", Colors Cineplex HD
+http://116.90.120.151:8000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-chno="157" group-title="Tamil", Colors Cineplex
+http://iptvcasomsapi.jprdigital.in/x-media/C0392/master.m3u8
+#EXTINF:-1 tvg-chno="158" group-title="Tamil", Colors Cineplex (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8
+#EXTINF:-1 tvg-chno="159" group-title="Tamil", Colors Cineplex Bollywood
+http://103.182.170.32:8888/play/a01o
+#EXTINF:-1 tvg-chno="160" group-title="Tamil", Colors Cineplex Bollywood (#)
+http://103.157.248.140:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-chno="161" group-title="Tamil", Colors Cineplex Superhits
+http://iptvcasomsapi.jprdigital.in/x-media/C0394/master.m3u8
+#EXTINF:-1 tvg-chno="162" group-title="Tamil", Colors Cineplex Superhits (#)
+http://116.90.120.151:8000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-chno="163" group-title="Tamil", Colors Gujarati
+http://iptvcasomsapi.jprdigital.in/x-media/C0491/master.m3u8
+#EXTINF:-1 tvg-chno="164" group-title="Tamil", Colors Gujarati (#)
+http://103.154.3.101:5001/live/196.m3u8
+#EXTINF:-1 tvg-chno="165" group-title="Tamil", Colors Gujarati Cinema
+http://111.88.78.21:8000/play/a0zm/index.m3u8
+#EXTINF:-1 tvg-chno="166" group-title="Tamil", Colors Gujarati Cinema (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0492/master.m3u8
+#EXTINF:-1 tvg-chno="167" group-title="Tamil", Colors Infinity
+http://103.229.254.25:7001/play/a0du/index.m3u8
+#EXTINF:-1 tvg-chno="168" group-title="Tamil", Colors Infinity (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0402/master.m3u8
+#EXTINF:-1 tvg-chno="169" group-title="Tamil", Colors Kannada
+http://iptvcasomsapi.jprdigital.in/x-media/C0482/master.m3u8
+#EXTINF:-1 tvg-chno="170" group-title="Tamil", Colors Kannada (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0456/master.m3u8
+#EXTINF:-1 tvg-chno="171" group-title="Tamil", Colors Kannada Cinema
+http://iptvcasomsapi.jprdigital.in/x-media/C0485/master.m3u8
+#EXTINF:-1 tvg-chno="172" group-title="Tamil", Colors Marathi
+http://iptvcasomsapi.jprdigital.in/x-media/C0467/master.m3u8
+#EXTINF:-1 tvg-chno="173" group-title="Tamil", Colors Marathi (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0454/master.m3u8
+#EXTINF:-1 tvg-chno="174" group-title="Tamil", Colors Rishtey Asia
+http://iptvcasomsapi.jprdigital.in/x-media/C0323/master.m3u8
+#EXTINF:-1 tvg-chno="175" group-title="Tamil", Colors Rishtey Asia (#)
+http://116.90.120.151:8000/play/a0ku/index.m3u8
+#EXTINF:-1 tvg-chno="176" group-title="Tamil", Colors Rishtey Asia (#)
+http://103.154.3.101:5001/live/279.m3u8
+#EXTINF:-1 tvg-chno="177" group-title="Tamil", Colors Super
+http://iptvcasomsapi.jprdigital.in/x-media/C0484/master.m3u8
+#EXTINF:-1 tvg-chno="178" group-title="Tamil", Colors Tamil
+http://15.235.144.106:14052/
+#EXTINF:-1 tvg-chno="179" group-title="Tamil", Colors Tamil (#)
+http://15.235.144.106:14052
+#EXTINF:-1 tvg-chno="180" group-title="Tamil", Colors Tamil (#)
+http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8
+#EXTINF:-1 tvg-chno="181" group-title="Tamil", Colors Tamil (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0459/master.m3u8
+#EXTINF:-1 tvg-chno="182" group-title="Tamil", Colors Tamil (#)
+http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
+#EXTINF:-1 tvg-chno="183" group-title="Tamil", Colors Tamil HD
+http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
+#EXTINF:-1 tvg-chno="184" group-title="Tamil", Comedy Tadka
+https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-chno="185" group-title="Tamil", Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-chno="186" group-title="Tamil", CTVN AKD Plus
+https://live.legitpro.co.in/ctvnakdplus/index.m3u8
+#EXTINF:-1 tvg-chno="187" group-title="Tamil", CV Vision
+https://eu1.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 tvg-chno="188" group-title="Tamil", CVR English
+https://cdn-2.pishow.tv/live/425/master.m3u8
+#EXTINF:-1 tvg-chno="189" group-title="Tamil", CVR Health
+https://cdn-6.pishow.tv/live/395/master.m3u8
+#EXTINF:-1 tvg-chno="190" group-title="Tamil", CVR News
+https://mumt04.tangotv.in/CVRNEWS/index.m3u8
+#EXTINF:-1 tvg-chno="191" group-title="Tamil", CVR OM Spiritual
+https://cdn-1.pishow.tv/live/957/master.m3u8
+#EXTINF:-1 tvg-chno="192" group-title="Tamil", Dabangg
+https://mumt01.tangotv.in/DABANGG/index.m3u8
+#EXTINF:-1 tvg-chno="193" group-title="Tamil", Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="194" group-title="Tamil", Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="195" group-title="Tamil", Darshan 24
+https://mumt05.tangotv.in/DARSHAN24/index.m3u8
+#EXTINF:-1 tvg-chno="196" group-title="Tamil", Darshana TV
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
+#EXTINF:-1 tvg-chno="197" group-title="Tamil", DD Arun Prabha
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-chno="198" group-title="Tamil", DD Arunprabha
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index_3.m3u8
+#EXTINF:-1 tvg-chno="199" group-title="Tamil", DD Arunprabha (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-chno="200" group-title="Tamil", DD Assam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-chno="201" group-title="Tamil", DD Assam (#)
+https://mumt05.tangotv.in/DDASSAM/index.m3u8
+#EXTINF:-1 tvg-chno="202" group-title="Tamil", DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1 tvg-chno="203" group-title="Tamil", DD Bangla (#)
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+#EXTINF:-1 tvg-chno="204" group-title="Tamil", DD Bharati
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 tvg-chno="205" group-title="Tamil", DD Bharati (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+#EXTINF:-1 tvg-chno="206" group-title="Tamil", DD Bihar
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:-1 tvg-chno="207" group-title="Tamil", DD Bharati
+http://103.213.31.109:90/DDBharati/playlist.m3u8
+#EXTINF:-1 tvg-chno="208" group-title="Tamil", DD Chandana
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
+#EXTINF:-1 tvg-chno="209" group-title="Tamil", DD Chandana (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+#EXTINF:-1 tvg-chno="210" group-title="Tamil", DD Chandana (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+#EXTINF:-1 tvg-chno="211" group-title="Tamil", DD Chhattisgarh
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1 tvg-chno="212" group-title="Tamil", DD Girnar
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+#EXTINF:-1 tvg-chno="213" group-title="Tamil", DD Girnar (#)
+https://mumt01.tangotv.in/DDGIRNAR/index.m3u8
+#EXTINF:-1 tvg-chno="214" group-title="Tamil", DD Goa
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-chno="215" group-title="Tamil", DD Goa (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-chno="216" group-title="Tamil", DD Haryana
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-chno="217" group-title="Tamil", DD Haryana (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-chno="218" group-title="Tamil", DD Himachal Pradesh
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-chno="219" group-title="Tamil", DD Himachal Pradesh (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-chno="220" group-title="Tamil", DD India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-chno="221" group-title="Tamil", DD India (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-chno="222" group-title="Tamil", DD Jharkhand
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
+#EXTINF:-1 tvg-chno="223" group-title="Tamil", DD Jharkhand (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+#EXTINF:-1 tvg-chno="224" group-title="Tamil", DD Jharkhand (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+#EXTINF:-1 tvg-chno="225" group-title="Tamil", DD Kashir
+https://mumt05.tangotv.in/DDKASHIR/index.m3u8
+#EXTINF:-1 tvg-chno="226" group-title="Tamil", DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 tvg-chno="227" group-title="Tamil", DD Kisan (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+#EXTINF:-1 tvg-chno="228" group-title="Tamil", DD Kisan (#)
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 tvg-chno="229" group-title="Tamil", DD Madhya Pradesh
+https://cdn-1.pishow.tv/live/31/master.m3u8
+#EXTINF:-1 tvg-chno="230" group-title="Tamil", DD Malayalam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+#EXTINF:-1 tvg-chno="231" group-title="Tamil", DD Malayalam (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+#EXTINF:-1 tvg-chno="232" group-title="Tamil", DD Malayalam (#)
+https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-chno="233" group-title="Tamil", DD Manipur
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-chno="234" group-title="Tamil", DD Manipur (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-chno="235" group-title="Tamil", DD Meghalaya
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-chno="236" group-title="Tamil", DD Meghalaya (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-chno="237" group-title="Tamil", DD Mizoram
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-chno="238" group-title="Tamil", DD Mizoram (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-chno="239" group-title="Tamil", DD Nagaland
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+#EXTINF:-1 tvg-chno="240" group-title="Tamil", DD Nagaland (#)
+https://mumt01.tangotv.in/DDNAGALAND/index.m3u8
+#EXTINF:-1 tvg-chno="241" group-title="Tamil", DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-chno="242" group-title="Tamil", DD National (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0065/master.m3u8
+#EXTINF:-1 tvg-chno="243" group-title="Tamil", DD National (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-chno="244" group-title="Tamil", DD National SD
+https://cdn-1.pishow.tv/live/11/master.m3u8
+#EXTINF:-1 tvg-chno="245" group-title="Tamil", DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-chno="246" group-title="Tamil", DD News (#)
+https://playhls.media.nic.in/live/ddnews/index.m3u8
+#EXTINF:-1 tvg-chno="247" group-title="Tamil", DA News Plus
+https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
+#EXTINF:-1 tvg-chno="248" group-title="Tamil", DD News (#)
+https://mumt04.tangotv.in/DDNEWS/index.m3u8
+#EXTINF:-1 tvg-chno="249" group-title="Tamil", DD Odia
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-chno="250" group-title="Tamil", DD Odia (576p) (#)
+https://mumt05.tangotv.in/DDODIA/index.m3u8
+#EXTINF:-1 tvg-chno="251" group-title="Tamil", DD Punjabi
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
+#EXTINF:-1 tvg-chno="252" group-title="Tamil", DD Punjabi (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 tvg-chno="253" group-title="Tamil", DD Punjabi (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 tvg-chno="254" group-title="Tamil", DD Rajasthan
+https://cdn-1.pishow.tv/live/34/master.m3u8
+#EXTINF:-1 tvg-chno="255" group-title="Tamil", DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+#EXTINF:-1 tvg-chno="256" group-title="Tamil", DD Sahyadri (#)
+https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8
+#EXTINF:-1 tvg-chno="257" group-title="Tamil", DD Sahyadri (#)
+http://103.78.149.54:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-chno="258" group-title="Tamil", DD Sahyadri (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0341/master.m3u8
+#EXTINF:-1 tvg-chno="259" group-title="Tamil", DD Saptagiri
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+#EXTINF:-1 tvg-chno="260" group-title="Tamil", DD Saptagiri (#)
+https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
+#EXTINF:-1 tvg-chno="261" group-title="Tamil", DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-chno="262" group-title="Tamil", DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-chno="263" group-title="Tamil", DD Tamil (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0593/master.m3u8
+#EXTINF:-1 tvg-chno="264" group-title="Tamil", DD Tripura
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
+#EXTINF:-1 tvg-chno="265" group-title="Tamil", DD Tripura (#)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+#EXTINF:-1 tvg-chno="266" group-title="Tamil", DD Tripura (#)
+https://mumt01.tangotv.in/DDTRIPURA/index.m3u8
+#EXTINF:-1 tvg-chno="267" group-title="Tamil", DD Urdu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+#EXTINF:-1 tvg-chno="268" group-title="Tamil", DD Urdu (#)
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 tvg-chno="269" group-title="Tamil", DD Uttar Pradesh
+https://cdn-1.pishow.tv/live/36/master.m3u8
+#EXTINF:-1 tvg-chno="270" group-title="Tamil", DD Uttarakhand
+https://cdn-1.pishow.tv/live/17/master.m3u8
+#EXTINF:-1 tvg-chno="271" group-title="Tamil", DD Yadagiri
+https://cdn-1.pishow.tv/live/21/master.m3u8
+#EXTINF:-1 tvg-chno="272" group-title="Tamil", DD Yadagiri (#)
+https://cdn-1.pishow.tv/live/21/master.m3u8
+#EXTINF:-1 tvg-chno="273" group-title="Tamil", Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#EXTINF:-1 tvg-chno="274" group-title="Tamil", Dhamaal
+https://cdn-1.pishow.tv/live/1291/master.m3u8
+#EXTINF:-1 tvg-chno="275" group-title="Tamil", Dhamaka Movies B4U
+https://cdn-1.pishow.tv/live/235/master.m3u8
+#EXTINF:-1 tvg-chno="276" group-title="Tamil", Dharm Sandesh
+https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8
+#EXTINF:-1 tvg-chno="277" group-title="Tamil", Disha TV
+https://mumt04.tangotv.in/DISHATV/index.m3u8
+#EXTINF:-1 tvg-chno="278" group-title="Tamil", Disney Channel
+http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
+#EXTINF:-1 tvg-chno="279" group-title="Tamil", Disney Channel (#)
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 tvg-chno="280" group-title="Tamil", Disney International HD
+http://116.90.120.151:8000/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-chno="281" group-title="Tamil", Disney International
+http://111.88.78.21:8000/play/a0qo/index.m3u8
+#EXTINF:-1 tvg-chno="282" group-title="Tamil", Disney Junior
+http://103.229.254.25:7001/play/a09r/index.m3u8
+#EXTINF:-1 tvg-chno="283" group-title="Tamil", Divya Darshan TV
+http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="284" group-title="Tamil", Divyavani TV
+https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+#EXTINF:-1 tvg-chno="285" group-title="Tamil", DY 365
+https://mumt04.tangotv.in/DY365/index.m3u8
+#EXTINF:-1 tvg-chno="286" group-title="Tamil", E 24
+https://mumt04.tangotv.in/E24/index.m3u8
+#EXTINF:-1 tvg-chno="287" group-title="Tamil", E-Vidya 1
+http://103.154.3.101:5001/live/400.m3u8
+#EXTINF:-1 tvg-chno="288" group-title="Tamil", E-Vidya 2
+http://103.154.3.101:5001/live/402.m3u8
+#EXTINF:-1 tvg-chno="289" group-title="Tamil", E-Vidya 3
+http://103.154.3.101:5001/live/405.m3u8
+#EXTINF:-1 tvg-chno="290" group-title="Tamil", E-Vidya 4
+http://103.154.3.101:5001/live/406.m3u8
+#EXTINF:-1 tvg-chno="291" group-title="Tamil", E-Vidya 7
+http://103.154.3.101:5001/live/404.m3u8
+#EXTINF:-1 tvg-chno="292" group-title="Tamil", Eet TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-chno="293" group-title="Tamil", Epic Music
+http://103.213.31.109:90/ShowBox/playlist.m3u8
+#EXTINF:-1 tvg-chno="294" group-title="Tamil", ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="295" group-title="Tamil", ETV Bal Bharat
+http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
+#EXTINF:-1 tvg-chno="296" group-title="Tamil", ETV Bal Bharat English
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
+#EXTINF:-1 tvg-chno="297" group-title="Tamil", ETV Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 tvg-chno="298" group-title="Tamil", ETV Josh
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+#EXTINF:-1 tvg-chno="299" group-title="Tamil", ETV Music
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-chno="300" group-title="Tamil", ETV News
+https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+#EXTINF:-1 tvg-chno="301" group-title="Tamil", Fakt Marathi
+https://cdn-6.pishow.tv/live/10002/master.m3u8
+#EXTINF:-1 tvg-chno="302" group-title="Tamil", Fast Mix
+https://mumt01.tangotv.in/FASTMIX/index.m3u8
+#EXTINF:-1 tvg-chno="303" group-title="Tamil", Fateh TV
+https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+#EXTINF:-1 tvg-chno="304" group-title="Tamil", Fateh TV (#)
+https://mumt05.tangotv.in/FATEHTV/index.m3u8
+#EXTINF:-1 tvg-chno="305" group-title="Tamil", Fazal Television
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="306" group-title="Tamil", Filamchi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-chno="307" group-title="Tamil", First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-chno="308" group-title="Tamil", First India News (#)
+https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-chno="309" group-title="Tamil", Flowers TV
+http://103.154.3.101:5001/live/634.m3u8
+#EXTINF:-1 tvg-chno="310" group-title="Tamil", Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-chno="311" group-title="Tamil", Food Food (#)
+http://45.148.145.57/IN_FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-chno="312" group-title="Tamil", Gangaur TV
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+#EXTINF:-1 tvg-chno="313" group-title="Tamil", GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 tvg-chno="314" group-title="Tamil", Gemini Comedy
+http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8
+#EXTINF:-1 tvg-chno="315" group-title="Tamil", Gemini Life
+http://iptvcasomsapi.jprdigital.in/x-media/C0584/master.m3u8
+#EXTINF:-1 tvg-chno="316" group-title="Tamil", Gemini Movies
+http://iptvcasomsapi.jprdigital.in/x-media/C0586/master.m3u8
+#EXTINF:-1 tvg-chno="317" group-title="Tamil", Gemini Music
+http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8
+#EXTINF:-1 tvg-chno="318" group-title="Tamil", Gemini TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8
+#EXTINF:-1 tvg-chno="319" group-title="Tamil", Global Punjab
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+#EXTINF:-1 tvg-chno="320" group-title="Tamil", Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-chno="321" group-title="Tamil", Goldmines (#)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-chno="322" group-title="Tamil", Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-chno="323" group-title="Tamil", Goldmines Bollywood
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-chno="324" group-title="Tamil", Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-chno="325" group-title="Tamil", Goldmines Movies (#)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-chno="326" group-title="Tamil", Goldmines Movies (#)
+http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
+#EXTINF:-1 tvg-chno="327" group-title="Tamil", Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-chno="328" group-title="Tamil", Good News Television
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="329" group-title="Tamil", Good News Television (#)
+https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8
+#EXTINF:-1 tvg-chno="330" group-title="Tamil", Gospel TV India
+https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+#EXTINF:-1 tvg-chno="331" group-title="Tamil", Grace Network
+https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="332" group-title="Tamil", Grace TV
+https://mumt03.tangotv.in/GRACETV/index.m3u8
+#EXTINF:-1 tvg-chno="333" group-title="Tamil", GS TV
+https://mumt05.tangotv.in/GSTV/index.m3u8
+#EXTINF:-1 tvg-chno="334" group-title="Tamil", GTC Punjabi
+https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+#EXTINF:-1 tvg-chno="335" group-title="Tamil", Guarantee News
+https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
+#EXTINF:-1 tvg-chno="336" group-title="Tamil", Guarantee News (#)
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+#EXTINF:-1 tvg-chno="337" group-title="Tamil", Gujarat First
+https://live.legitpro.co.in/gujaratfirst/index.m3u8
+#EXTINF:-1 tvg-chno="338" group-title="Tamil", Gyandarshan
+https://cdn-6.pishow.tv/live/14/master.m3u8
+#EXTINF:-1 tvg-chno="339" group-title="Tamil", Hamdard TV
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-chno="340" group-title="Tamil", Har Khabar
+https://mumt01.tangotv.in/HARKHABAR/index.m3u8
+#EXTINF:-1 tvg-chno="341" group-title="Tamil", Hare Krsna TV
+https://mumt05.tangotv.in/HAREKRSNA/index.m3u8
+#EXTINF:-1 tvg-chno="342" group-title="Tamil", Hare Krsna TV (#)
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+#EXTINF:-1 tvg-chno="343" group-title="Tamil", Harvest TV 24x7
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/chunks.m3u8
+#EXTINF:-1 tvg-chno="344" group-title="Tamil", Harvest TV Keralam
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+#EXTINF:-1 tvg-chno="345" group-title="Tamil", Harvest USA
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="346" group-title="Tamil", Hebron TV
+https://account20.livebox.co.in/charleshls/live.m3u8
+#EXTINF:-1 tvg-chno="347" group-title="Tamil", Hi Dost!
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1 tvg-chno="348" group-title="Tamil", High Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-chno="349" group-title="Tamil", Hindi Hits
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+#EXTINF:-1 tvg-chno="350" group-title="Tamil", Hindi Khabar
+https://cdn-2.pishow.tv/live/1041/master.m3u8
+#EXTINF:-1 tvg-chno="351" group-title="Tamil", Hindu Dharmam
+https://cdn-1.pishow.tv/live/959/master.m3u8
+#EXTINF:-1 tvg-chno="352" group-title="Tamil", History TV18
+http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
+#EXTINF:-1 tvg-chno="353" group-title="Tamil", History TV18 (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
+#EXTINF:-1 tvg-chno="354" group-title="Tamil", History TV18 (#)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+#EXTINF:-1 tvg-chno="355" group-title="Tamil", HMTV
+https://cdn-1.pishow.tv/live/280/master.m3u8
+#EXTINF:-1 tvg-chno="356" group-title="Tamil", HNN 24x7
+https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="357" group-title="Tamil", Hope Channel India
+https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
+#EXTINF:-1 tvg-chno="358" group-title="Tamil", Hornbill TV
+https://cdn-2.pishow.tv/live/1463/master.m3u8
+#EXTINF:-1 tvg-chno="359" group-title="Tamil", Hungama TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8
+#EXTINF:-1 tvg-chno="360" group-title="Tamil", Hungama TV (#)
+http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-chno="361" group-title="Tamil", IBC 24
+https://cdn-3.pishow.tv/live/220/master.m3u8
+#EXTINF:-1 tvg-chno="362" group-title="Tamil", IBC Bakthi
+https://ibc.massstream.net/IBC2/index.m3u8
+#EXTINF:-1 tvg-chno="363" group-title="Tamil", IBC Tamil
+https://ibc.massstream.net/IBC/index.m3u8
+#EXTINF:-1 tvg-chno="364" group-title="Tamil", Ind 24
+https://mumt02.tangotv.in/IND24/index.m3u8
+#EXTINF:-1 tvg-chno="365" group-title="Tamil", India Ahead
+https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
+#EXTINF:-1 tvg-chno="366" group-title="Tamil", India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-chno="367" group-title="Tamil", India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 tvg-chno="368" group-title="Tamil", India Voice
+https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
+#EXTINF:-1 tvg-chno="369" group-title="Tamil", INews
+https://cdn-1.pishow.tv/live/411/master.m3u8
+#EXTINF:-1 tvg-chno="370" group-title="Tamil", INH 24x7
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="371" group-title="Tamil", INH 24x7 (#)
+https://mumt01.tangotv.in/INH24X7/index.m3u8
+#EXTINF:-1 tvg-chno="372" group-title="Tamil", Insync
+https://mumt04.tangotv.in/INSYNC/index.m3u8
+#EXTINF:-1 tvg-chno="373" group-title="Tamil", Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-chno="374" group-title="Tamil", Isai Aruvi (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0317/master.m3u8
+#EXTINF:-1 tvg-chno="375" group-title="Tamil", Isai Aruvi (#)
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-chno="376" group-title="Tamil", Ishwar Bhakti TV
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="377" group-title="Tamil", J Movie
+http://iptvcasomsapi.jprdigital.in/x-media/C0314/master.m3u8
+#EXTINF:-1 tvg-chno="378" group-title="Tamil", J Movie (#)
+http://103.154.3.101:5001/live/417.m3u8
+#EXTINF:-1 tvg-chno="379" group-title="Tamil", J Music
+http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
+#EXTINF:-1 tvg-chno="380" group-title="Tamil", Jaihind TV
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-chno="381" group-title="Tamil", Jaihind TV (#)
+https://mumt03.tangotv.in/JAIHIND/index.m3u8
+#EXTINF:-1 tvg-chno="382" group-title="Tamil", Jai Maharashtra
+https://cdn-3.pishow.tv/live/1465/master.m3u8
+#EXTINF:-1 tvg-chno="383" group-title="Tamil", Jalsha Movies
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-chno="384" group-title="Tamil", Jan TV
+https://cdn-6.pishow.tv/live/10004/master.m3u8
+#EXTINF:-1 tvg-chno="385" group-title="Tamil", Janta TV
+https://live.jswk.online/IK_RTPM/live/index.m3u8
+#EXTINF:-1 tvg-chno="386" group-title="Tamil", Jai Maharashtra
+https://cdn-3.pishow.tv/live/1465/master.m3u8
+#EXTINF:-1 tvg-chno="387" group-title="Tamil", Jalsha Movies
+http://iptvcasomsapi.jprdigital.in/x-media/C0463/master.m3u8
+#EXTINF:-1 tvg-chno="388" group-title="Tamil", Jaya Max
+http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8
+#EXTINF:-1 tvg-chno="389" group-title="Tamil", Jaya Max (#)
+https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8
+#EXTINF:-1 tvg-chno="390" group-title="Tamil", Jaya Max (#)
+http://103.154.3.101:5001/live/420.m3u8
+#EXTINF:-1 tvg-chno="391" group-title="Tamil", Jaya Plus
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+#EXTINF:-1 tvg-chno="392" group-title="Tamil", Jaya TV
+http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8
+#EXTINF:-1 tvg-chno="393" group-title="Tamil", Jaya TV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8
+#EXTINF:-1 tvg-chno="394" group-title="Tamil", Jaya TV (#)
+http://103.154.3.101:5001/live/419.m3u8
+#EXTINF:-1 tvg-chno="395" group-title="Tamil", Jeevan TV
+https://cdn-3.pishow.tv/live/1467/master.m3u8
+#EXTINF:-1 tvg-chno="396" group-title="Tamil", Jinvani Channel
+https://cdn-2.pishow.tv/live/989/master.m3u8
+#EXTINF:-1 tvg-chno="397" group-title="Tamil", Josh TV
+https://mumt03.tangotv.in/JOSHTV/index.m3u8
+#EXTINF:-1 tvg-chno="398" group-title="Tamil", K News India
+https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
+#EXTINF:-1 tvg-chno="399" group-title="Tamil", Kairali
+https://mumt01.tangotv.in/KAIRALI/index.m3u8
+#EXTINF:-1 tvg-chno="400" group-title="Tamil", Kairali Arabia
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-chno="401" group-title="Tamil", Kairali News
+https://cdn-3.pishow.tv/live/1469/master.m3u8
+#EXTINF:-1 tvg-chno="402" group-title="Tamil", Kairali We
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 tvg-chno="403" group-title="Tamil", Kalaignar Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1 tvg-chno="404" group-title="Tamil", Kalaignar Murasu (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0320/master.m3u8
+#EXTINF:-1 tvg-chno="405" group-title="Tamil", Kalaignar Seithigal
+https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+#EXTINF:-1 tvg-chno="406" group-title="Tamil", Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-chno="407" group-title="Tamil", Kalaignar TV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0316/master.m3u8
+#EXTINF:-1 tvg-chno="408" group-title="Tamil", Kalaignar TV (#)
+http://ajkiptv.ridsys.in/riptv/live/KALAIGNAR_TV/index.m3u8
+#EXTINF:-1 tvg-chno="409" group-title="Tamil", Kalinga TV
+https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="410" group-title="Tamil", Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="411" group-title="Tamil", Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 tvg-chno="412" group-title="Tamil", Kappa TV
+https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 tvg-chno="413" group-title="Tamil", Kashish News
+https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
+#EXTINF:-1 tvg-chno="414" group-title="Tamil", Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="415" group-title="Tamil", KCL TV
+http://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-chno="416" group-title="Tamil", Kerala Vision
+https://mumt03.tangotv.in/KERALAVISION/index.m3u8
+#EXTINF:-1 tvg-chno="417" group-title="Tamil", Khabar Fast
+https://mumt04.tangotv.in/KHABARFAST/index.m3u8
+#EXTINF:-1 tvg-chno="418" group-title="Tamil", Khabrain Abhi Tak
+https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
+#EXTINF:-1 tvg-chno="419" group-title="Tamil", Kochu TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0564/master.m3u8
+#EXTINF:-1 tvg-chno="420" group-title="Tamil", KTV
+http://103.121.6.5:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-chno="421" group-title="Tamil", KTV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0575/master.m3u8
+#EXTINF:-1 tvg-chno="422" group-title="Tamil", Kushi TV
+http://103.140.254.2:3500/live/558.m3u8
+#EXTINF:-1 tvg-chno="423" group-title="Tamil", Kushi TV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0583/master.m3u8
+#EXTINF:-1 tvg-chno="424" group-title="Tamil", Life TV
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1 tvg-chno="425" group-title="Tamil", Live Times
+https://mumt01.tangotv.in/LIVETIMES/index.m3u8
+#EXTINF:-1 tvg-chno="426" group-title="Tamil", Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+#EXTINF:-1 tvg-chno="427" group-title="Tamil", Living India News
+https://stream.ottlive.co.in/livingindia/index.m3u8
+#EXTINF:-1 tvg-chno="428" group-title="Tamil", Lokshahi News
+https://see.lokshahi.live/live/index.m3u8
+#EXTINF:-1 tvg-chno="429" group-title="Tamil", LoveWorld India
+https://transcoding29.livebox.co.in/loveworldhls/loveworld.m3u8
+#EXTINF:-1 tvg-chno="430" group-title="Tamil", M Nadu
+https://mumt01.tangotv.in/MNADU/index.m3u8
+#EXTINF:-1 tvg-chno="431" group-title="Tamil", Madha TV
+https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
+#EXTINF:-1 tvg-chno="432" group-title="Tamil", Madha TV (#)
+https://mumt02.tangotv.in/MADHATV/index.m3u8
+#EXTINF:-1 tvg-chno="433" group-title="Tamil", Madhimugam TV
+https://cdn-3.pishow.tv/live/1476/master.m3u8
+#EXTINF:-1 tvg-chno="434" group-title="Tamil", Maha Movie
+https://cdn-6.pishow.tv/live/10007/master.m3u8
+#EXTINF:-1 tvg-chno="435" group-title="Tamil", Maha Punjabi
+https://cdn-4.pishow.tv/live/1521/master.m3u8
+#EXTINF:-1 tvg-chno="436" group-title="Tamil", Mahaa Bhakti
+https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
+#EXTINF:-1 tvg-chno="437" group-title="Tamil", Mahaa Max
+https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8
+#EXTINF:-1 tvg-chno="438" group-title="Tamil", Mahaa News
+https://d8wpu6ewxtzy0.cloudfront.net/mahaanews/index.m3u8
+#EXTINF:-1 tvg-chno="439" group-title="Tamil", Maiboli
+https://mumt01.tangotv.in/MAIBOLI/index.m3u8
+#EXTINF:-1 tvg-chno="440" group-title="Tamil", Maina TV
+https://mumt03.tangotv.in/MAINATV/index.m3u8
+#EXTINF:-1 tvg-chno="441" group-title="Tamil", Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="442" group-title="Tamil", Malabar News
+http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
+#EXTINF:-1 tvg-chno="443" group-title="Tamil", Malai Murasu TV
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+#EXTINF:-1 tvg-chno="444" group-title="Tamil", Malar TV
+https://cdn-3.pishow.tv/live/473/master.m3u8
+#EXTINF:-1 tvg-chno="445" group-title="Tamil", Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+#EXTINF:-1 tvg-chno="446" group-title="Tamil", Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
+#EXTINF:-1 tvg-chno="447" group-title="Tamil", Manoranjan Movies (#)
+http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
+#EXTINF:-1 tvg-chno="448" group-title="Tamil", Manoranjan Prime
+https://cdn-4.pishow.tv/live/1474/master.m3u8
+#EXTINF:-1 tvg-chno="449" group-title="Tamil", Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8
+#EXTINF:-1 tvg-chno="450" group-title="Tamil", Manoranjan TV (#)
+http://103.213.31.109:90/ManoranjanTv/playlist.m3u8
+#EXTINF:-1 tvg-chno="451" group-title="Tamil", Mantavya News
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
+#EXTINF:-1 tvg-chno="452" group-title="Tamil", Mastiii
+https://mumt02.tangotv.in/MASTIII/index.m3u8
+#EXTINF:-1 tvg-chno="453" group-title="Tamil", Mathrubhumi News
+https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="454" group-title="Tamil", Mathrubhumi News (#)
+https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
+#EXTINF:-1 tvg-chno="455" group-title="Tamil", Matti TV
+https://mumt03.tangotv.in/MATTITV/index.m3u8
+#EXTINF:-1 tvg-chno="456" group-title="Tamil", Max Movies
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-chno="457" group-title="Tamil", Max Music
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-chno="458" group-title="Tamil", Mazhavil Manorama
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+#EXTINF:-1 tvg-chno="459" group-title="Tamil", MBC TV
+https://mumt03.tangotv.in/MBCTV/index.m3u8
+#EXTINF:-1 tvg-chno="460" group-title="Tamil", Media One
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+#EXTINF:-1 tvg-chno="461" group-title="Tamil", Melody Hits
+https://mumt03.tangotv.in/MELODYHITS/index.m3u8
+#EXTINF:-1 tvg-chno="462" group-title="Tamil", Mercy TV
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+#EXTINF:-1 tvg-chno="463" group-title="Tamil", Metro TV
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 tvg-chno="464" group-title="Tamil", Mh 1 Movies
+https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
+#EXTINF:-1 tvg-chno="465" group-title="Tamil", Mh 1 Music
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:-1 tvg-chno="466" group-title="Tamil", Mh 1 Music (#)
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:-1 tvg-chno="467" group-title="Tamil", Mh 1 News
+https://livestream.jswk.online/mhonenews/live/index.m3u8
+#EXTINF:-1 tvg-chno="468" group-title="Tamil", Mh 1 News (#)
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
+#EXTINF:-1 tvg-chno="469" group-title="Tamil", MH One Dil Se
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:-1 tvg-chno="470" group-title="Tamil", MH One Dil Se (#)
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:-1 tvg-chno="471" group-title="Tamil", MK Six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 tvg-chno="472" group-title="Tamil", MNTV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-chno="473" group-title="Tamil", MNX
+http://116.90.120.128:8000/play/a0i6/index.m3u88
+#EXTINF:-1 tvg-chno="474" group-title="Tamil", MNX (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8
+#EXTINF:-1 tvg-chno="475" group-title="Tamil", MNX HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
+#EXTINF:-1 tvg-chno="476" group-title="Tamil", Mojo TV
+https://mumt02.tangotv.in/MOJOTV/index.m3u8
+#EXTINF:-1 tvg-chno="477" group-title="Tamil", Movieplex
+https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
+#EXTINF:-1 tvg-chno="478" group-title="Tamil", Movieplex (#)
+https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
+#EXTINF:-1 tvg-chno="479" group-title="Tamil", Movies Now
+http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
+#EXTINF:-1 tvg-chno="480" group-title="Tamil", Movies Now +
+http://116.90.120.128:8000/play/a0i4/index.m3u88
+#EXTINF:-1 tvg-chno="481" group-title="Tamil", Movies Now + (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0112/master.m3u8
+#EXTINF:-1 tvg-chno="482" group-title="Tamil", MTV HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
+#EXTINF:-1 tvg-chno="483" group-title="Tamil", MTV HD (#)
+http://103.157.248.140:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-chno="484" group-title="Tamil", MTV HD (#)
+http://103.154.3.101:5001/live/248.m3u8
+#EXTINF:-1 tvg-chno="485" group-title="Tamil", MTV
+http://iptvcasomsapi.jprdigital.in/x-media/C0397/master.m3u8
+#EXTINF:-1 tvg-chno="486" group-title="Tamil", Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-chno="487" group-title="Tamil", Nagaland TV
+https://cdn-6.pishow.tv/live/10014/master.m3u8
+#EXTINF:-1 tvg-chno="488" group-title="Tamil", Nambikkai TV
+https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
+#EXTINF:-1 tvg-chno="489" group-title="Tamil", Namdhari
+https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 tvg-chno="490" group-title="Tamil", Nandighosha TV
+https://www.nandighoshatvlive.com/hls/stream/index.m3u8
+#EXTINF:-1 tvg-chno="491" group-title="Tamil", National Geographic
+http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8
+#EXTINF:-1 tvg-chno="492" group-title="Tamil", National Geographic HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8
+#EXTINF:-1 tvg-chno="493" group-title="Tamil", National Geographic HD (#)
+http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-chno="494" group-title="Tamil", National Geographic Wild HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8
+#EXTINF:-1 tvg-chno="495" group-title="Tamil", National Geographic Wild HD (#)
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-chno="496" group-title="Tamil", Nickelodeon
+http://ptu.ridsys.in/riptv/live/NICK/index.m3u8
+#EXTINF:-1 tvg-chno="497" group-title="Tamil", Nick Jr.
+http://103.157.248.140:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-chno="498" group-title="Tamil", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-chno="499" group-title="Tamil", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 tvg-chno="500" group-title="Tamil", NDTV India (#)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-chno="501" group-title="Tamil", NDTV India (#)
+http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
+#EXTINF:-1 tvg-chno="502" group-title="Tamil", NDTV Madhya Pradesh Chhattisgarh
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
+#EXTINF:-1 tvg-chno="503" group-title="Tamil", NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-chno="504" group-title="Tamil", NDTV Rajasthan
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+#EXTINF:-1 tvg-chno="505" group-title="Tamil", NE News
+https://mumt05.tangotv.in/NENEWS/index.m3u8
+#EXTINF:-1 tvg-chno="506" group-title="Tamil", Nepal 1
+https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
+#EXTINF:-1 tvg-chno="507" group-title="Tamil", Network 10
+https://network10.livebox.co.in/network10hls/live.m3u8
+#EXTINF:-1 tvg-chno="508" group-title="Tamil", New Hope TV
+https://shashwatha.com/hls/show/newhopetv_low.m3u8
+#EXTINF:-1 tvg-chno="509" group-title="Tamil", News 1st
+https://cdn-3.pishow.tv/live/268/master.m3u8
+#EXTINF:-1 tvg-chno="510" group-title="Tamil", News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-chno="511" group-title="Tamil", News9Live
+https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+#EXTINF:-1 tvg-chno="512" group-title="Tamil", News 11
+https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
+#EXTINF:-1 tvg-chno="513" group-title="Tamil", News18 Assam North-East
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="514" group-title="Tamil", News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="515" group-title="Tamil", News18 Bihar Jharkhand
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="516" group-title="Tamil", News18 Gujarati
+https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="517" group-title="Tamil", News18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="518" group-title="Tamil", News18 JKLH
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="519" group-title="Tamil", News18 Kannada
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="520" group-title="Tamil", News18 Kerala
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="521" group-title="Tamil", News18 Lokmat
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="522" group-title="Tamil", News18 Madhya Pradesh/Chhattisgarh
+https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="523" group-title="Tamil", News18 Odia
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="524" group-title="Tamil", News18 Punjab/Haryana/Himachal
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="525" group-title="Tamil", News18 Rajasthan
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="526" group-title="Tamil", News18 Tamil Nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="527" group-title="Tamil", News18 Urdu
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="528" group-title="Tamil", News18 Uttar Pradesh Uttarakhand
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-chno="529" group-title="Tamil", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="530" group-title="Tamil", News 24 (#)
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+#EXTINF:-1 tvg-chno="531" group-title="Tamil", News 24 MP & Chhattisgarh
+https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
+#EXTINF:-1 tvg-chno="532" group-title="Tamil", News Daily 24
+https://cdn-6.pishow.tv/live/10009/master.m3u8
+#EXTINF:-1 tvg-chno="533" group-title="Tamil", News J
+https://cdn-3.pishow.tv/live/1279/master.m3u8
+#EXTINF:-1 tvg-chno="534" group-title="Tamil", News India 24x7
+https://live.legitpro.co.in/newsindia/index.m3u8
+#EXTINF:-1 tvg-chno="535" group-title="Tamil", News Live
+https://cdn-6.pishow.tv/live/10011/master.m3u8
+#EXTINF:-1 tvg-chno="536" group-title="Tamil", News Malayalam 24x7
+https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
+#EXTINF:-1 tvg-chno="537" group-title="Tamil", News Tamil 24x7
+https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
+#EXTINF:-1 tvg-chno="538" group-title="Tamil", NKR TV Kannada
+https://mumt05.tangotv.in/NKRTV/index.m3u8
+#EXTINF:-1 tvg-chno="539" group-title="Tamil", NKR TV Kannada (#)
+https://stream.ottlive.co.in/nkrtv/index.m3u8
+#EXTINF:-1 tvg-chno="540" group-title="Tamil", Nickelodeon
+http://103.157.248.140:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-chno="541" group-title="Tamil", Nick HD+
+http://116.90.120.128:8000/play/a0i3/index.m3u88
+#EXTINF:-1 tvg-chno="542" group-title="Tamil", Nick HD+ (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8
+#EXTINF:-1 tvg-chno="543" group-title="Tamil", Nick Jr.
+http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8
+#EXTINF:-1 tvg-chno="544" group-title="Tamil", Nick Jr. (#)
+http://103.154.3.101:5001/live/544.m3u8
+#EXTINF:-1 tvg-chno="545" group-title="Tamil", Nireekshana
+https://cdn-1.pishow.tv/live/965/master.m3u8
+#EXTINF:-1 tvg-chno="546" group-title="Tamil", North East Live
+https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="547" group-title="Tamil", NTC TV
+https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-chno="548" group-title="Tamil", NTV Telugu
+https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
+#EXTINF:-1 tvg-chno="549" group-title="Tamil", Oli TV
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-chno="550" group-title="Tamil", OMtv
+http://103.140.254.2:3500/live/3279.m3u8
+#EXTINF:-1 tvg-chno="551" group-title="Tamil", OMtv (#)
+https://mumt01.tangotv.in/OMTV/index.m3u8
+#EXTINF:-1 tvg-chno="552" group-title="Tamil", On TV
+https://mumt03.tangotv.in/ONTV/index.m3u8
+#EXTINF:-1 tvg-chno="553" group-title="Tamil", Oscar Movies Bhojpuri
+https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:-1 tvg-chno="554" group-title="Tamil", Pankh
+https://mumt04.tangotv.in/PANKH/index.m3u8
+#EXTINF:-1 tvg-chno="555" group-title="Tamil", Paras Gold
+https://mumt04.tangotv.in/PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-chno="556" group-title="Tamil", Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Tamil", Pasand TV
+https://mumt01.tangotv.in/PASANDTV/index.m3u8
+#EXTINF:-1 tvg-chno="558" group-title="Tamil", Pasand TV (#)
+https://mumt01.tangotv.in/PASANDTV/index.m3u8
+#EXTINF:-1 tvg-chno="559" group-title="Tamil", Peace of Mind TV
+https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
+#EXTINF:-1 tvg-chno="560" group-title="Tamil", Pear TV
+https://mumt01.tangotv.in/PEARTV/index.m3u8
+#EXTINF:-1 tvg-chno="561" group-title="Tamil", People's Television
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 tvg-chno="562" group-title="Tamil", Peppers TV
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+#EXTINF:-1 tvg-chno="563" group-title="Tamil", PMC Telugu
+https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+#EXTINF:-1 tvg-chno="564" group-title="Tamil", Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1 tvg-chno="565" group-title="Tamil", Polimer News (#)
+https://live-cf-polimernews.dailyhunt.in/master.m3u8
+#EXTINF:-1 tvg-chno="566" group-title="Tamil", Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+#EXTINF:-1 tvg-chno="567" group-title="Tamil", Power TV
+https://powertvkannada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="568" group-title="Tamil", Prag News
+https://mumt05.tangotv.in/PRAGNEWS/index.m3u8
+#EXTINF:-1 tvg-chno="569" group-title="Tamil", Prarthana TV
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="570" group-title="Tamil", Pravah Picture
+http://iptvcasomsapi.jprdigital.in/x-media/C0455/master.m3u8
+#EXTINF:-1 tvg-chno="571" group-title="Tamil", Prime 9 News
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+#EXTINF:-1 tvg-chno="572" group-title="Tamil", Prime News
+https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
+#EXTINF:-1 tvg-chno="573" group-title="Tamil", Prudent Media
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-chno="574" group-title="Tamil", PTC Chakde
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-chno="575" group-title="Tamil", PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-chno="576" group-title="Tamil", PTC News
+https://cdn-4.pishow.tv/live/1502/master.m3u8
+#EXTINF:-1 tvg-chno="577" group-title="Tamil", PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1 tvg-chno="578" group-title="Tamil", PTC Punjabi Gold
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 tvg-chno="579" group-title="Tamil", PTC Simran
+https://cdn-6.pishow.tv/live/1503/master.m3u8
+#EXTINF:-1 tvg-chno="580" group-title="Tamil", PTV Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="581" group-title="Tamil", Public Movies
+https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="582" group-title="Tamil", Public Music
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-chno="583" group-title="Tamil", Public TV
+https://cdn-3.pishow.tv/live/439/master.m3u8
+#EXTINF:-1 tvg-chno="584" group-title="Tamil", Public TV (#)
+https://livestreampublictv.sunnxt.com/publictv/index.m3u8
+#EXTINF:-1 tvg-chno="585" group-title="Tamil", Pudhari News
+http://iptvcasomsapi.jprdigital.in/x-media/C0176/master.m3u8
+#EXTINF:-1 tvg-chno="586" group-title="Tamil", Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-chno="587" group-title="Tamil", Punjabi Music
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
+#EXTINF:-1 tvg-chno="588" group-title="Tamil", Punjabi TV
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8
+#EXTINF:-1 tvg-chno="589" group-title="Tamil", Puthiya Thalaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1 tvg-chno="590" group-title="Tamil", Puthuyugam TV
+https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
+#EXTINF:-1 tvg-chno="591" group-title="Tamil", R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-chno="592" group-title="Tamil", R Plus Gold
+https://cdn-4.pishow.tv/live/1231/master.m3u8
+#EXTINF:-1 tvg-chno="593" group-title="Tamil", Raftaar Media
+https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="594" group-title="Tamil", Raj Musix Kannada
+https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 tvg-chno="595" group-title="Tamil", Raj Musix Malayalam
+https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-chno="596" group-title="Tamil", Raj Musix Tamil
+http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8
+#EXTINF:-1 tvg-chno="597" group-title="Tamil", Raj Musix Telugu
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+#EXTINF:-1 tvg-chno="598" group-title="Tamil", Raj News Kannada
+https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
+#EXTINF:-1 tvg-chno="599" group-title="Tamil", Raj News Malayalam
+http://103.140.254.2:3500/live/650.m3u8
+#EXTINF:-1 tvg-chno="600" group-title="Tamil", Raj News Malayalam (#)
+https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-chno="601" group-title="Tamil", Raj News Telugu
+http://103.140.254.2:3500/live/664.m3u8
+#EXTINF:-1 tvg-chno="602" group-title="Tamil", Raj News Telugu (#)
+https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
+#EXTINF:-1 tvg-chno="603" group-title="Tamil", Raj Pariwar
+http://103.154.3.101:5001/live/533.m3u8
+#EXTINF:-1 tvg-chno="604" group-title="Tamil", Ramdhenu
+http://103.140.254.2:3500/live/639.m3u8
+#EXTINF:-1 tvg-chno="605" group-title="Tamil", Ramdhenu (#)
+https://mumt01.tangotv.in/RAMDHENU/index.m3u8
+#EXTINF:-1 tvg-chno="606" group-title="Tamil", Rang
+https://mumt01.tangotv.in/RANG/index.m3u8
+#EXTINF:-1 tvg-chno="607" group-title="Tamil", Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="608" group-title="Tamil", Romedy Now
+http://116.90.120.151:8000/play/a0is/index.m3u8
+#EXTINF:-1 tvg-chno="609" group-title="Tamil", Romedy Now (#)
+http://103.157.248.140:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-chno="610" group-title="Tamil", Rengoni
+https://mumt05.tangotv.in/RENGONI/index.m3u8
+#EXTINF:-1 tvg-chno="611" group-title="Tamil", Reporter TV
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+#EXTINF:-1 tvg-chno="612" group-title="Tamil", Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+#EXTINF:-1 tvg-chno="613" group-title="Tamil", Republic Kannada
+https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
+#EXTINF:-1 tvg-chno="614" group-title="Tamil", Republic TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+#EXTINF:-1 tvg-chno="615" group-title="Tamil", Republic TV (#)
+https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
+#EXTINF:-1 tvg-chno="616" group-title="Tamil", Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-chno="617" group-title="Tamil", Roja TV
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-chno="618" group-title="Tamil", Romedy Now
+http://iptvcasomsapi.jprdigital.in/x-media/C0091/master.m3u8
+#EXTINF:-1 tvg-chno="619" group-title="Tamil", Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-chno="620" group-title="Tamil", Rozana Spokesman
+https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
+#EXTINF:-1 tvg-chno="621" group-title="Tamil", Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8
+#EXTINF:-1 tvg-chno="622" group-title="Tamil", Saang TV (#)
+https://mumt02.tangotv.in/SAANGTV/index.m3u8
+#EXTINF:-1 tvg-chno="623" group-title="Tamil", Sach Bedhadak
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+#EXTINF:-1 tvg-chno="624" group-title="Tamil", Sada TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1 tvg-chno="625" group-title="Tamil", Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="626" group-title="Tamil", Sadhna TV
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="627" group-title="Tamil", Safari
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="628" group-title="Tamil", Sahana News
+https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
+#EXTINF:-1 tvg-chno="629" group-title="Tamil", Sairam TV
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-chno="630" group-title="Tamil", Sai TV
+https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8
+#EXTINF:-1 tvg-chno="631" group-title="Tamil", Salaam TV
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-chno="632" group-title="Tamil", Salvation TV
+https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+#EXTINF:-1 tvg-chno="633" group-title="Tamil", Samachar Plus
+https://cdn-2.pishow.tv/live/269/master.m3u8
+#EXTINF:-1 tvg-chno="634" group-title="Tamil", Samay Kolkata
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1 tvg-chno="635" group-title="Tamil", Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-chno="636" group-title="Tamil", Sana Plus (#)
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+#EXTINF:-1 tvg-chno="637" group-title="Tamil", Sana TV
+https://galaxyott.live/hls/sanatv.m3u8
+#EXTINF:-1 tvg-chno="638" group-title="Tamil", Sangeet Bhojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 tvg-chno="639" group-title="Tamil", Sangeet Bhojpuri (#)
+http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
+#EXTINF:-1 tvg-chno="640" group-title="Tamil", Sangeet Marathi
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+#EXTINF:-1 tvg-chno="641" group-title="Tamil", Sankara
+https://cdn-3.pishow.tv/live/1135/master.m3u8
+#EXTINF:-1 tvg-chno="642" group-title="Tamil", Sansad TV 1
+https://playhls.media.nic.in/live/lstv/index.m3u8
+#EXTINF:-1 tvg-chno="643" group-title="Tamil", Sansad TV 1 (#)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1 tvg-chno="644" group-title="Tamil", Sansad TV 2
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 tvg-chno="645" group-title="Tamil", Sansad TV 2 (#)
+https://cdn-2.pishow.tv/live/39/master.m3u8
+#EXTINF:-1 tvg-chno="646" group-title="Tamil", Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-chno="647" group-title="Tamil", Sanskar UK
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+#EXTINF:-1 tvg-chno="648" group-title="Tamil", Sanskar USA
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+#EXTINF:-1 tvg-chno="649" group-title="Tamil", Santvani Channel
+https://cdn-2.pishow.tv/live/475/master.m3u8
+#EXTINF:-1 tvg-chno="650" group-title="Tamil", Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-chno="651" group-title="Tamil", Sathiyam TV
+https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
+#EXTINF:-1 tvg-chno="652" group-title="Tamil", Satsang TV
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-chno="653" group-title="Tamil", Satsang Web TV
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+#EXTINF:-1 tvg-chno="654" group-title="Tamil", Shalini TV
+https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-chno="655" group-title="Tamil", Shalom Global
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="656" group-title="Tamil", Shalom India
+https://d2c4zqo2rb5uf1.cloudfront.net/master_1080.m3u8
+#EXTINF:-1 tvg-chno="657" group-title="Tamil", Shalom World
+https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
+#EXTINF:-1 tvg-chno="658" group-title="Tamil", Shalom World Europe
+https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
+#EXTINF:-1 tvg-chno="659" group-title="Tamil", Shalom World Prayer
+https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
+#EXTINF:-1 tvg-chno="660" group-title="Tamil", Shekinah TV
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="661" group-title="Tamil", Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-chno="662" group-title="Tamil", Shemaroo Bollywood (#)
+http://103.213.31.109:90/ShemarooBollywoodHD/playlist.m3u8
+#EXTINF:-1 tvg-chno="663" group-title="Tamil", Shemaroo Filmi Gaane
+http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+#EXTINF:-1 tvg-chno="664" group-title="Tamil", Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="665" group-title="Tamil", Shemaroo Marathi Bana
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="666" group-title="Tamil", Shemaroo TV
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-chno="667" group-title="Tamil", Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-chno="668" group-title="Tamil", Shemaroo Umang (#)
+http://103.213.31.109:90/ShemarooUmang/playlist.m3u8
+#EXTINF:-1 tvg-chno="669" group-title="Tamil", ShowBox
+http://116.90.120.151:8000/play/a0k2/index.m3u8
+#EXTINF:-1 tvg-chno="670" group-title="Tamil", Shubh Cinema TV
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+#EXTINF:-1 tvg-chno="671" group-title="Tamil", Shubh TV
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+#EXTINF:-1 tvg-chno="672" group-title="Tamil", Shubhsandesh
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-chno="673" group-title="Tamil", Sindh TV
+https://mumt01.tangotv.in/SINDHTV/index.m3u8
+#EXTINF:-1 tvg-chno="674" group-title="Tamil", Siri Kannada
+https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
+#EXTINF:-1 tvg-chno="675" group-title="Tamil", Sirippoli TV
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-chno="676" group-title="Tamil", Sirippoli TV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0318/master.m3u8
+#EXTINF:-1 tvg-chno="677" group-title="Tamil", Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-chno="678" group-title="Tamil", Soham TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0146/master.m3u8
+#EXTINF:-1 tvg-chno="679" group-title="Tamil", Soham TV (#)
+https://mumt03.tangotv.in/SOHAMTV/index.m3u8
+#EXTINF:-1 tvg-chno="680" group-title="Tamil", Songdew TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-chno="681" group-title="Tamil", Sonic
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-chno="682" group-title="Tamil", Sony BBC Earth
+http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8
+#EXTINF:-1 tvg-chno="683" group-title="Tamil", Sony BBC Earth HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8
+#EXTINF:-1 tvg-chno="684" group-title="Tamil", Sony BBC Earth HD (#)
+http://116.90.120.151:8000/play/a0j1/index.m3u8
+#EXTINF:-1 tvg-chno="685" group-title="Tamil", Sony Entertainment Television HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
+#EXTINF:-1 tvg-chno="686" group-title="Tamil", Sony Entertainment Television HD (#)
+http://116.90.120.151:8000/play/a0gp/index.m3u8
+#EXTINF:-1 tvg-chno="687" group-title="Tamil", Sony Entertainment Television HD (#)
+http://103.157.248.140:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-chno="688" group-title="Tamil", Sony Marathi
+http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8
+#EXTINF:-1 tvg-chno="689" group-title="Tamil", Sony Max
+http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
+#EXTINF:-1 tvg-chno="690" group-title="Tamil", Sony Max (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0363/master.m3u8
+#EXTINF:-1 tvg-chno="691" group-title="Tamil", Sony Max (#)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
+#EXTINF:-1 tvg-chno="692" group-title="Tamil", Sony Max (#)
+http://116.90.120.151:8000/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-chno="693" group-title="Tamil", Sony Max (#)
+http://103.157.248.140:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-chno="694" group-title="Tamil", Sony Max 1
+http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
+#EXTINF:-1 tvg-chno="695" group-title="Tamil", Sony Max 2
+http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
+#EXTINF:-1 tvg-chno="696" group-title="Tamil", Sony Max 2 (#)
+http://116.90.120.151:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-chno="697" group-title="Tamil", Sony Pal
+http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
+#EXTINF:-1 tvg-chno="698" group-title="Tamil", Sony Pal (#)
+http://116.90.120.151:8000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-chno="699" group-title="Tamil", Sony Pix
+http://iptvcasomsapi.jprdigital.in/x-media/C0364/master.m3u8
+#EXTINF:-1 tvg-chno="700" group-title="Tamil", Sony Pix (#)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8
+#EXTINF:-1 tvg-chno="701" group-title="Tamil", Sony SAB
+http://103.229.254.25:7001/play/a0db/index.m3u8
+#EXTINF:-1 tvg-chno="702" group-title="Tamil", Sony SAB (#)
+http://103.157.248.140:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-chno="703" group-title="Tamil", Sony SAB HD
+http://103.99.249.139/sonysab/index.m3u8
+#EXTINF:-1 tvg-chno="704" group-title="Tamil", Sony Sports Ten 1
+http://103.121.6.5:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-chno="705" group-title="Tamil", Sony Sports Ten 1 (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8
+#EXTINF:-1 tvg-chno="706" group-title="Tamil", Sony Sports Ten 2
+http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8
+#EXTINF:-1 tvg-chno="707" group-title="Tamil", Sony Sports Ten 3 Hindi
+http://103.229.254.25:7001/play/a09q/index.m3u8
+#EXTINF:-1 tvg-chno="708" group-title="Tamil", Sony Sports Ten 3 Hindi (#)
+http://116.90.120.128:8000/play/a0jr/index.m3u88
+#EXTINF:-1 tvg-chno="709" group-title="Tamil", Sony Sports Ten 3 Hindi HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8
+#EXTINF:-1 tvg-chno="710" group-title="Tamil", Sony Sports Ten 5 HD
+http://116.90.120.151:8000/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-chno="711" group-title="Tamil", Sony Sports Ten 5 HD (#)
+http://103.157.248.140:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-chno="712" group-title="Tamil", Sony Sports Ten 5
+http://103.99.249.139/sonyten3/index.m3u8
+#EXTINF:-1 tvg-chno="713" group-title="Tamil", Sony Wah
+http://iptvcasomsapi.jprdigital.in/x-media/C0361/master.m3u8
+#EXTINF:-1 tvg-chno="714" group-title="Tamil", Sony Wah (#)
+http://116.90.120.151:8000/play/a0kt/index.m3u8
+#EXTINF:-1 tvg-chno="715" group-title="Tamil", Sony Yay!
+http://103.229.254.25:7001/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-chno="716" group-title="Tamil", Sony Yay! (#)
+http://116.90.120.151:8000/play/a0hf/index.m3u8
+#EXTINF:-1 tvg-chno="717" group-title="Tamil", Star Bharat
+http://103.253.18.58:8000/play/a00u
+#EXTINF:-1 tvg-chno="718" group-title="Tamil", Star Bharat (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0388/master.m3u8
+#EXTINF:-1 tvg-chno="719" group-title="Tamil", Star Bharat (#)
+http://116.90.120.151:8000/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-chno="720" group-title="Tamil", Star Gold
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-chno="721" group-title="Tamil", Star Gold (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
+#EXTINF:-1 tvg-chno="722" group-title="Tamil", Star Gold 2
+http://103.253.18.58:8000/play/a00r
+#EXTINF:-1 tvg-chno="723" group-title="Tamil", Star Gold 2 (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0390/master.m3u8
+#EXTINF:-1 tvg-chno="724" group-title="Tamil", Star Gold 2 (#)
+http://116.90.120.151:8000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-chno="725" group-title="Tamil", Star Gold 2 (#)
+http://103.157.248.140:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-chno="726" group-title="Tamil", Star Gold Romance
+http://iptvcasomsapi.jprdigital.in/x-media/C0391/master.m3u8
+#EXTINF:-1 tvg-chno="727" group-title="Tamil", Star Gold Romance (#)
+http://116.90.120.151:8000/play/a0he/index.m3u8
+#EXTINF:-1 tvg-chno="728" group-title="Tamil", Star Gold Romance (#)
+http://103.253.18.58:8000/play/a017
+#EXTINF:-1 tvg-chno="729" group-title="Tamil", Star Gold Select
+http://iptvcasomsapi.jprdigital.in/x-media/C0395/master.m3u8
+#EXTINF:-1 tvg-chno="730" group-title="Tamil", Star Gold Thrills
+http://iptvcasomsapi.jprdigital.in/x-media/C0396/master.m3u8
+#EXTINF:-1 tvg-chno="731" group-title="Tamil", Star Gold Thrills (#)
+http://116.90.120.151:8000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-chno="732" group-title="Tamil", Star Gold Thrills (#)
+http://103.253.18.58:8000/play/a00o
+#EXTINF:-1 tvg-chno="733" group-title="Tamil", Star Jalsha
+http://iptvcasomsapi.jprdigital.in/x-media/C0462/master.m3u8
+#EXTINF:-1 tvg-chno="734" group-title="Tamil", Star Jalsha HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0457/master.m3u8
+#EXTINF:-1 tvg-chno="735" group-title="Tamil", Star Maa
+http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8
+#EXTINF:-1 tvg-chno="736" group-title="Tamil", Star Maa Gold
+http://103.121.6.5:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-chno="737" group-title="Tamil", Star Maa Movies
+http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
+#EXTINF:-1 tvg-chno="738" group-title="Tamil", Star Maa Music
+http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
+#EXTINF:-1 tvg-chno="739" group-title="Tamil", Star Movies
+http://iptvcasomsapi.jprdigital.in/x-media/C0403/master.m3u8
+#EXTINF:-1 tvg-chno="740" group-title="Tamil", Star Movies HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
+#EXTINF:-1 tvg-chno="741" group-title="Tamil", Star Movies HD (#)
+http://103.157.248.140:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-chno="742" group-title="Tamil", Star Movies Select
+http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
+#EXTINF:-1 tvg-chno="743" group-title="Tamil", Star Movies Select HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
+#EXTINF:-1 tvg-chno="744" group-title="Tamil", Star Movies Select HD (#)
+http://116.90.120.151:8000/play/a0ij/index.m3u8
+#EXTINF:-1 tvg-chno="745" group-title="Tamil", Star Plus
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-chno="746" group-title="Tamil", Star Pravah
+http://iptvcasomsapi.jprdigital.in/x-media/C0466/master.m3u8
+#EXTINF:-1 tvg-chno="747" group-title="Tamil", Star Pravah HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0453/master.m3u8
+#EXTINF:-1 tvg-chno="748" group-title="Tamil", Star Sports 1
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-chno="749" group-title="Tamil", Star Sports 1 (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8
+#EXTINF:-1 tvg-chno="750" group-title="Tamil", Star Sports 1 HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
+#EXTINF:-1 tvg-chno="751" group-title="Tamil", Star Sports 1 HD (#)
+http://116.90.120.151:8000/play/a0gs/index.m3u8
+#EXTINF:-1 tvg-chno="752" group-title="Tamil", Star Sports 1 HD (#)
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 tvg-chno="753" group-title="Tamil", Star Sports 1 Hindi
+http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8
+#EXTINF:-1 tvg-chno="754" group-title="Tamil", Star Sports 1 Hindi (#)
+http://116.90.120.151:8000/play/a0h1/index.m3u8
+#EXTINF:-1 tvg-chno="755" group-title="Tamil", Star Sports 1 Hindi (#)
+http://103.253.18.58:8000/play/a03o
+#EXTINF:-1 tvg-chno="756" group-title="Tamil", Star Sports 1 Hindi HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
+#EXTINF:-1 tvg-chno="757" group-title="Tamil", Star Sports 1 Hindi HD (#)
+http://116.90.120.151:8000/play/a0je/index.m3u8
+#EXTINF:-1 tvg-chno="758" group-title="Tamil", Star Sports 1 Kannada
+http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8
+#EXTINF:-1 tvg-chno="759" group-title="Tamil", Star Sports 1 Tamil
+http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8
+#EXTINF:-1 tvg-chno="760" group-title="Tamil", Star Sports 1 Tamil (#)
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8
+#EXTINF:-1 tvg-chno="761" group-title="Tamil", Star Sports 1 Tamil HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8
+#EXTINF:-1 tvg-chno="762" group-title="Tamil", Star Sports 1 Tamil HD (#)
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
+#EXTINF:-1 tvg-chno="763" group-title="Tamil", Star Sports 1 Telugu
+http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
+#EXTINF:-1 tvg-chno="764" group-title="Tamil", Star Sports 2
+http://103.121.6.5:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-chno="765" group-title="Tamil", Star Sports 2 (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8
+#EXTINF:-1 tvg-chno="766" group-title="Tamil", Star Sports 2 HD
+http://116.90.120.151:8000/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-chno="767" group-title="Tamil", Star Sports 2 HD (#)
+https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 tvg-chno="768" group-title="Tamil", Star Sports 2 Hindi
+http://iptvcasomsapi.jprdigital.in/x-media/C0416/master.m3u8
+#EXTINF:-1 tvg-chno="769" group-title="Tamil", Star Sports 2 Hindi (#)
+http://116.90.120.151:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-chno="770" group-title="Tamil", Star Sports 2 Hindi HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8
+#EXTINF:-1 tvg-chno="771" group-title="Tamil", Star Sports 2 Hindi HD (#)
+http://116.90.120.151:8000/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-chno="772" group-title="Tamil", Star Sports 2 Hindi HD (#)
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-chno="773" group-title="Tamil", Star Sports 2 Kannada
+http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8
+#EXTINF:-1 tvg-chno="774" group-title="Tamil", Star Sports 2 Telugu
+http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
+#EXTINF:-1 tvg-chno="775" group-title="Tamil", Star Sports 3
+http://103.121.6.5:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-chno="776" group-title="Tamil", Star Sports Khel
+http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8
+#EXTINF:-1 tvg-chno="777" group-title="Tamil", Star Suvarna
+http://iptvcasomsapi.jprdigital.in/x-media/C0483/master.m3u8
+#EXTINF:-1 tvg-chno="778" group-title="Tamil", Star Suvarna Plus
+http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8
+#EXTINF:-1 tvg-chno="779" group-title="Tamil", Star Utsav
+http://iptvcasomsapi.jprdigital.in/x-media/C0310/master.m3u8
+#EXTINF:-1 tvg-chno="780" group-title="Tamil", Star Utsav (#)
+http://116.90.120.151:8000/play/a0kc/index.m3u8
+#EXTINF:-1 tvg-chno="781" group-title="Tamil", Star Utsav Movies
+http://iptvcasomsapi.jprdigital.in/x-media/C0322/master.m3u8
+#EXTINF:-1 tvg-chno="782" group-title="Tamil", Star Utsav Movies (#)
+http://116.90.120.151:8000/play/a0ka/index.m3u8
+#EXTINF:-1 tvg-chno="783" group-title="Tamil", Star Vijay
+http://iptvcasomsapi.jprdigital.in/x-media/C0469/master.m3u8
+#EXTINF:-1 tvg-chno="784" group-title="Tamil", Star Vijay (#)
+http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
+#EXTINF:-1 tvg-chno="785" group-title="Tamil", Star Vijay HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0460/master.m3u8
+#EXTINF:-1 tvg-chno="786" group-title="Tamil", Star Vijay HD (#)
+http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8
+#EXTINF:-1 tvg-chno="787" group-title="Tamil", Studio Yuva
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
+#EXTINF:-1 tvg-chno="788" group-title="Tamil", STV Haryana News
+https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
+#EXTINF:-1 tvg-chno="789" group-title="Tamil", Subharti TV
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-chno="790" group-title="Tamil", Subhavaartha TV
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="791" group-title="Tamil", Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-chno="792" group-title="Tamil", Sudarshan News
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="793" group-title="Tamil", Sun Life
+http://iptvcasomsapi.jprdigital.in/x-media/C0585/master.m3u8
+#EXTINF:-1 tvg-chno="794" group-title="Tamil", Sun Marathi
+http://iptvcasomsapi.jprdigital.in/x-media/C0576/master.m3u8
+#EXTINF:-1 tvg-chno="795" group-title="Tamil", Sun Marathi (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0577/master.m3u8
+#EXTINF:-1 tvg-chno="796" group-title="Tamil", Sun Music
+http://iptvcasomsapi.jprdigital.in/x-media/C0563/master.m3u8
+#EXTINF:-1 tvg-chno="797" group-title="Tamil", Sun Music (#)
+http://103.140.254.2:3500/live/895.m3u8
+#EXTINF:-1 tvg-chno="798" group-title="Tamil", Sun Music (#)
+http://15.235.144.106:14055
+#EXTINF:-1 tvg-chno="799" group-title="Tamil", Sun Neo HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0582/master.m3u8
+#EXTINF:-1 tvg-chno="800" group-title="Tamil", Sun News
+http://iptvcasomsapi.jprdigital.in/x-media/C0565/master.m3u8
+#EXTINF:-1 tvg-chno="801" group-title="Tamil", Sun TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0532/master.m3u8
+#EXTINF:-1 tvg-chno="802" group-title="Tamil", Sun TV (#)
+http://15.235.144.106:14054
+#EXTINF:-1 tvg-chno="803" group-title="Tamil", Sun TV HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0590/master.m3u8
+#EXTINF:-1 tvg-chno="804" group-title="Tamil", Surya Comedy
+http://iptvcasomsapi.jprdigital.in/x-media/C0578/master.m3u8
+#EXTINF:-1 tvg-chno="805" group-title="Tamil", Surya Movies
+http://iptvcasomsapi.jprdigital.in/x-media/C0567/master.m3u8
+#EXTINF:-1 tvg-chno="806" group-title="Tamil", Surya Music
+http://103.140.254.2:3500/live/747.m3u8
+#EXTINF:-1 tvg-chno="807" group-title="Tamil", Surya Music (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8
+#EXTINF:-1 tvg-chno="808" group-title="Tamil", Surya TV
+http://103.229.254.25:7001/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-chno="809" group-title="Tamil", Surya TV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8
+#EXTINF:-1 tvg-chno="810" group-title="Tamil", Suriya TV (#)
+https://stream.ottlive.co.in/suryatvtamil/index.m3u8
+#EXTINF:-1 tvg-chno="811" group-title="Tamil", Suriyan TV
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-chno="812" group-title="Tamil", SVBC
+http://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/chunks.m3u8
+#EXTINF:-1 tvg-chno="813" group-title="Tamil", SVBC 2
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks.m3u8
+#EXTINF:-1 tvg-chno="814" group-title="Tamil", SVBC 3
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="815" group-title="Tamil", SVBC 4
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="816" group-title="Tamil", Swadesh News
+https://cdn-2.pishow.tv/live/465/master.m3u8
+#EXTINF:-1 tvg-chno="817" group-title="Tamil", Swaraj Express SMBC
+https://cdn-2.pishow.tv/live/477/master.m3u8
+#EXTINF:-1 tvg-chno="818" group-title="Tamil", Swatantra TV
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+#EXTINF:-1 tvg-chno="819" group-title="Tamil", Swayam Prabha 19
+http://103.154.3.101:5001/live/401.m3u8
+#EXTINF:-1 tvg-chno="820" group-title="Tamil", Swayam Prabha 20
+http://103.154.3.101:5001/live/403.m3u8
+#EXTINF:-1 tvg-chno="821" group-title="Tamil", T News
+https://cdn-1.pishow.tv/live/385/master.m3u8
+#EXTINF:-1 tvg-chno="822" group-title="Tamil", Tadka
+https://mumt03.tangotv.in/TADKA/index.m3u8
+#EXTINF:-1 tvg-chno="823" group-title="Tamil", Tamil Entertainment Television
+https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
+#EXTINF:-1 tvg-chno="824" group-title="Tamil", Tamil Janam
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 tvg-chno="825" group-title="Tamil", Tamilan TV
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="826" group-title="Tamil", Tarang Music
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="827" group-title="Tamil", Tarang TV
+https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="828" group-title="Tamil", Taaza TV
+https://live.we2live.in/taazatv/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="829" group-title="Tamil", Tehzeeb TV
+https://cdn-4.pishow.tv/live/239/master.m3u8
+#EXTINF:-1 tvg-chno="830" group-title="Tamil", Telugu One
+https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+#EXTINF:-1 tvg-chno="831" group-title="Tamil", Thalaa TV
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+#EXTINF:-1 tvg-chno="832" group-title="Tamil", Thanthi One
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+#EXTINF:-1 tvg-chno="833" group-title="Tamil", The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 tvg-chno="834" group-title="Tamil", The Q India
+https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:-1 tvg-chno="835" group-title="Tamil", Thanthi TV
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF:-1 tvg-chno="836" group-title="Tamil", Thendral TV
+https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-chno="837" group-title="Tamil", Times Now Navbharat
+https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-chno="838" group-title="Tamil", Times Now World
+http://iptvcasomsapi.jprdigital.in/x-media/C0124/master.m3u8
+#EXTINF:-1 tvg-chno="839" group-title="Tamil", Total Bhakti
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+#EXTINF:-1 tvg-chno="840" group-title="Tamil", Total TV Haryana
+https://cdn-2.pishow.tv/live/1522/master.m3u8
+#EXTINF:-1 tvg-chno="841" group-title="Tamil", Tribe TV
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1 tvg-chno="842" group-title="Tamil", TOI Global
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
+#EXTINF:-1 tvg-chno="843" group-title="Tamil", Tolly
+https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+#EXTINF:-1 tvg-chno="844" group-title="Tamil", Travelxp HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0118/master.m3u8
+#EXTINF:-1 tvg-chno="845" group-title="Tamil", Travelxp HD (#)
+http://116.90.120.151:8000/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-chno="846" group-title="Tamil", Travelxp Tamil
+http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8
+#EXTINF:-1 tvg-chno="847" group-title="Tamil", Tunes 6
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
+#EXTINF:-1 tvg-chno="848" group-title="Tamil", TV 1
+https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8
+#EXTINF:-1 tvg-chno="849" group-title="Tamil", TV 5 Kannada
+https://cdn-3.pishow.tv/live/1526/master.m3u8
+#EXTINF:-1 tvg-chno="850" group-title="Tamil", TV 5 Kannada (#)
+https://segment.yuppcdn.net/050522/tv5kannada/playlist.m3u8
+#EXTINF:-1 tvg-chno="851" group-title="Tamil", TV 9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="852" group-title="Tamil", TV 9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="853" group-title="Tamil", TV 9 Gujarati
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="854" group-title="Tamil", TV 9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="855" group-title="Tamil", TV 9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="856" group-title="Tamil", TV 13 Gujarati
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+#EXTINF:-1 tvg-chno="857" group-title="Tamil", Twenty Four News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 tvg-chno="858" group-title="Tamil", Udaya Comedy
+http://103.140.254.2:3500/live/733.m3u8
+#EXTINF:-1 tvg-chno="859" group-title="Tamil", Udaya Comedy (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0574/master.m3u8
+#EXTINF:-1 tvg-chno="860" group-title="Tamil", Udaya Movies
+http://103.140.254.2:3500/live/678.m3u8
+#EXTINF:-1 tvg-chno="861" group-title="Tamil", Udaya Movies (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0570/master.m3u8
+#EXTINF:-1 tvg-chno="862" group-title="Tamil", Udaya Music
+http://103.140.254.2:3500/live/744.m3u8
+#EXTINF:-1 tvg-chno="863" group-title="Tamil", Udaya Music (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8
+#EXTINF:-1 tvg-chno="864" group-title="Tamil", Udaya TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0569/master.m3u8
+#EXTINF:-1 tvg-chno="865" group-title="Tamil", Ultimate TV
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+#EXTINF:-1 tvg-chno="866" group-title="Tamil", Ultimate TV (#)
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 tvg-chno="867" group-title="Tamil", Unique TV
+https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+#EXTINF:-1 tvg-chno="868" group-title="Tamil", UTV Anandam
+https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
+#EXTINF:-1 tvg-chno="869" group-title="Tamil", Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="870" group-title="Tamil", Vanitha TV
+https://cdn-1.pishow.tv/live/393/master.m3u8
+#EXTINF:-1 tvg-chno="871" group-title="Tamil", Vasanth
+https://mumt04.tangotv.in/VASANTHTV/index.m3u8
+#EXTINF:-1 tvg-chno="872" group-title="Tamil", VBC News
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 tvg-chno="873" group-title="Tamil", Vedic
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-chno="874" group-title="Tamil", Vedic (#)
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="875" group-title="Tamil", Velicham
+https://cdn-3.pishow.tv/live/461/master.m3u8
+#EXTINF:-1 tvg-chno="876" group-title="Tamil", Vendhar TV
+https://cdn-3.pishow.tv/live/1271/master.m3u8
+#EXTINF:-1 tvg-chno="877" group-title="Tamil", Vijay Super
+http://iptvcasomsapi.jprdigital.in/x-media/C0470/master.m3u8
+#EXTINF:-1 tvg-chno="878" group-title="Tamil", Vijay Super (#)
+http://ajkiptv.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
+#EXTINF:-1 tvg-chno="879" group-title="Tamil", Vijay Super (#)
+http://103.157.248.140:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-chno="880" group-title="Tamil", Vijay Takkar
+http://iptvcasomsapi.jprdigital.in/x-media/C0473/master.m3u8
+#EXTINF:-1 tvg-chno="881" group-title="Tamil", Vijay Takkar (#)
+http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8
+#EXTINF:-1 tvg-chno="882" group-title="Tamil", Vijay Takkar APAC
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 tvg-chno="883" group-title="Tamil", Village TV
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-chno="884" group-title="Tamil", VIP News
+https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="885" group-title="Tamil", Vissa TV
+http://103.140.254.2:3500/live/734.m3u8
+#EXTINF:-1 tvg-chno="886" group-title="Tamil", Vissa TV (#)
+https://mumt02.tangotv.in/VISSATV/index.m3u8
+#EXTINF:-1 tvg-chno="887" group-title="Tamil", Vistaar News
+https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8
+#EXTINF:-1 tvg-chno="888" group-title="Tamil", VTV News
+https://mumt04.tangotv.in/VTV/index.m3u8
+#EXTINF:-1 tvg-chno="889" group-title="Tamil", Vyas Higher Education Channel
+https://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1 tvg-chno="890" group-title="Tamil", Wayanad Vision
+https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="891" group-title="Tamil", Win TV
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+#EXTINF:-1 tvg-chno="892" group-title="Tamil", WION
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-chno="893" group-title="Tamil", YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-chno="894" group-title="Tamil", Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-chno="895" group-title="Tamil", ZB Bhakti
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+#EXTINF:-1 tvg-chno="896" group-title="Tamil", ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-chno="897" group-title="Tamil", ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-chno="898" group-title="Tamil", ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 tvg-chno="899" group-title="Tamil", Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="900" group-title="Tamil", Zee 24 Ghanta (#)
+http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
+#EXTINF:-1 tvg-chno="901" group-title="Tamil", Zee 24 Kalak
+https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-chno="902" group-title="Tamil", Zee 24 Kalak (#)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8
+#EXTINF:-1 tvg-chno="903" group-title="Tamil", Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-chno="904" group-title="Tamil", Zee Action
+http://iptvcasomsapi.jprdigital.in/x-media/C0531/master.m3u8
+#EXTINF:-1 tvg-chno="905" group-title="Tamil", Zee Action (#)
+http://103.154.3.101:5001/live/488.m3u8
+#EXTINF:-1 tvg-chno="906" group-title="Tamil", Zee Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+#EXTINF:-1 tvg-chno="907" group-title="Tamil", Zee Bangla (#)
+http://103.140.254.2:3500/live/625.m3u8
+#EXTINF:-1 tvg-chno="908" group-title="Tamil", Zee Bangla (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0512/master.m3u8
+#EXTINF:-1 tvg-chno="909" group-title="Tamil", Zee Bangla Sonar
+http://103.229.254.25:7001/play/a070/index.m3u8
+#EXTINF:-1 tvg-chno="910" group-title="Tamil", Zee Bharat
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="911" group-title="Tamil", Zee Bihar Jharkhand
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
+#EXTINF:-1 tvg-chno="912" group-title="Tamil", Zee Bihar Jharkhand (#)
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="913" group-title="Tamil", Zee Bihar Jharkhand (#)
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
+#EXTINF:-1 tvg-chno="914" group-title="Tamil", Zee Biskope
+http://116.90.120.128:8000/play/a0kf/index.m3u88
+#EXTINF:-1 tvg-chno="915" group-title="Tamil", Zee Biskope (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0561/master.m3u8
+#EXTINF:-1 tvg-chno="916" group-title="Tamil", Zee Biskope (#)
+http://116.90.120.151:8000/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-chno="917" group-title="Tamil", Zee Bollywood
+http://103.229.254.25:7001/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-chno="918" group-title="Tamil", Zee Business
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-chno="919" group-title="Tamil", Zee Business (#)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-chno="920" group-title="Tamil", Zee Cafe
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-chno="921" group-title="Tamil", Zee Chitramandir
+http://iptvcasomsapi.jprdigital.in/x-media/C0351/master.m3u8
+#EXTINF:-1 tvg-chno="922" group-title="Tamil", Zee Cinema HD
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-chno="923" group-title="Tamil", Zee Cinema HD (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0538/master.m3u8
+#EXTINF:-1 tvg-chno="924" group-title="Tamil", Zee Cinema HD (#)
+http://103.157.248.140:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-chno="925" group-title="Tamil", Zee Cinema HD (#)
+http://103.154.3.101:5001/live/165.m3u8
+#EXTINF:-1 tvg-chno="926" group-title="Tamil", Zee Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-chno="927" group-title="Tamil", Zee Cinema (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
+#EXTINF:-1 tvg-chno="928" group-title="Tamil", Zee Cinemalu HD
+https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
+#EXTINF:-1 tvg-chno="929" group-title="Tamil", Zee Cinemalu
+http://iptvcasomsapi.jprdigital.in/x-media/C0544/master.m3u8
+#EXTINF:-1 tvg-chno="930" group-title="Tamil", Zee Cinemalu (#)
+http://103.154.3.101:5001/live/413.m3u8
+#EXTINF:-1 tvg-chno="931" group-title="Tamil", Zee Classic
+http://103.229.254.25:7001/play/a09w/index.m3u8
+#EXTINF:-1 tvg-chno="932" group-title="Tamil", Zee Delhi NCR Haryana
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
+#EXTINF:-1 tvg-chno="933" group-title="Tamil", Zee Delhi NCR Haryana (#)
+https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="934" group-title="Tamil", Zee Hindustan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+#EXTINF:-1 tvg-chno="935" group-title="Tamil", Zee Kannada
+http://iptvcasomsapi.jprdigital.in/x-media/C0514/master.m3u8
+#EXTINF:-1 tvg-chno="936" group-title="Tamil", Zee Kannada News
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="937" group-title="Tamil", Zee Keralam
+http://iptvcasomsapi.jprdigital.in/x-media/C0559/master.m3u8
+#EXTINF:-1 tvg-chno="938" group-title="Tamil", Zee Madhya Pradesh Chhattisgarh
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
+#EXTINF:-1 tvg-chno="939" group-title="Tamil", Zee Madhya Pradesh Chhattisgarh (#)
+https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="940" group-title="Tamil", Zee Marathi HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0508/master.m3u8
+#EXTINF:-1 tvg-chno="941" group-title="Tamil", Zee Marathi
+http://iptvcasomsapi.jprdigital.in/x-media/C0525/master.m3u8
+#EXTINF:-1 tvg-chno="942" group-title="Tamil", Zee Marathi (#)
+http://103.154.3.101:5001/live/445.m3u8
+#EXTINF:-1 tvg-chno="943" group-title="Tamil", Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-chno="944" group-title="Tamil", Zee News (#)
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-chno="945" group-title="Tamil", Zee News Malayalam
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-chno="946" group-title="Tamil", Zee One
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="947" group-title="Tamil", Zee Punjabi
+http://iptvcasomsapi.jprdigital.in/x-media/C0560/master.m3u8
+#EXTINF:-1 tvg-chno="948" group-title="Tamil", Zee Punjab Haryana Himachal
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-chno="949" group-title="Tamil", Zee Punjab Haryana Himachal (#)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
+#EXTINF:-1 tvg-chno="950" group-title="Tamil", Zee Rajasthan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
+#EXTINF:-1 tvg-chno="951" group-title="Tamil", Zee Rajasthan (#)
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-chno="952" group-title="Tamil", Zee Sarthak
+http://iptvcasomsapi.jprdigital.in/x-media/C0555/master.m3u8
+#EXTINF:-1 tvg-chno="953" group-title="Tamil", Zee Talkies
+http://103.52.34.182:8001/play/a04r/index.m3u8
+#EXTINF:-1 tvg-chno="954" group-title="Tamil", Zee Talkies (#)
+http://116.90.120.128:8000/play/a0io/index.m3u88
+#EXTINF:-1 tvg-chno="955" group-title="Tamil", Zee Talkies (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0518/master.m3u8
+#EXTINF:-1 tvg-chno="956" group-title="Tamil", Zee Talkies HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0509/master.m3u8
+#EXTINF:-1 tvg-chno="957" group-title="Tamil", Zee Talkies HD (#)
+http://116.90.120.151:8000/play/a0io/index.m3u8
+#EXTINF:-1 tvg-chno="958" group-title="Tamil", Zee Tamil
+http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8
+#EXTINF:-1 tvg-chno="959" group-title="Tamil", Zee Tamil (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0535/master.m3u8
+#EXTINF:-1 tvg-chno="960" group-title="Tamil", Zee Tamil (#)
+http://116.90.120.151:8000/play/a0h4/index.m3u8
+#EXTINF:-1 tvg-chno="961" group-title="Tamil", Zee Tamil HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0557/master.m3u8
+#EXTINF:-1 tvg-chno="962" group-title="Tamil", Zee Tamil News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+#EXTINF:-1 tvg-chno="963" group-title="Tamil", Zee Telugu
+http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8
+#EXTINF:-1 tvg-chno="964" group-title="Tamil", Zee Telugu HD (#)
+https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
+#EXTINF:-1 tvg-chno="965" group-title="Tamil", Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+#EXTINF:-1 tvg-chno="966" group-title="Tamil", Zee Thirai HD
+http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8
+#EXTINF:-1 tvg-chno="967" group-title="Tamil", Zee Thirai
+http://iptvcasomsapi.jprdigital.in/x-media/C0558/master.m3u8
+#EXTINF:-1 tvg-chno="968" group-title="Tamil", Zee Thirai (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0554/master.m3u8
+#EXTINF:-1 tvg-chno="969" group-title="Tamil", Zee Uttar Pradesh/Uttarakhand
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-chno="970" group-title="Tamil", Zee TV HD
+http://103.154.3.101:5001/live/167.m3u8
+#EXTINF:-1 tvg-chno="971" group-title="Tamil", Zee TV
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-chno="972" group-title="Tamil", Zee TV (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
+#EXTINF:-1 tvg-chno="973" group-title="Tamil", Zee TV (#)
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-chno="974" group-title="Tamil", Zee Yuva
+http://iptvcasomsapi.jprdigital.in/x-media/C0510/master.m3u8
+#EXTINF:-1 tvg-chno="975" group-title="Tamil", Zee Yuva (#)
+http://103.154.3.101:5001/live/414.m3u8
+#EXTINF:-1 tvg-chno="976" group-title="Tamil", Zee Zest
+http://103.229.254.25:7001/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-chno="977" group-title="Tamil", Zee Zest (#)
+http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8
+#EXTINF:-1 tvg-chno="978" group-title="Tamil", ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1 tvg-chno="979" group-title="Tamil", Zing!
+http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
+#EXTINF:-1 tvg-chno="980" group-title="Tamil", Zing! (#)
+http://103.154.3.101:5001/live/585.m3u8
+#EXTINF:-1 tvg-chno="981" group-title="Tamil", Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-chno="982" group-title="Tamil", Zoom Global
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
