@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CP3 Stream Player</title>
+  <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #0a0c10;
+      --surface:  #111318;
+      --panel:    #161a22;
+      --border:   #222733;
+      --accent:   #e8453c;
+      --accent2:  #ff7a35;
+      --glow:     rgba(232,69,60,0.35);
+      --txt:      #e2e6f0;
+      --txt-dim:  #5a6278;
+      --txt-mid:  #8892a4;
+      --radius:   12px;
+      --font-hd:  'Bebas Neue', sans-serif;
+      --font-bd:  'DM Sans', sans-serif;
+    }
+
+    html, body { height: 100%; background: var(--bg); color: var(--txt); font-family: var(--font-bd); font-size: 14px; overflow: hidden; }
+
+    #app {
+      display: grid;
+      grid-template-rows: 56px 1fr;
+      grid-template-columns: 1fr 300px;
+      height: 100vh;
+    }
+
+    /* HEADER */
+    header {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 0 24px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .logo {
+      font-family: var(--font-hd);
+      font-size: 26px;
+      letter-spacing: 3px;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .live-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 8px var(--accent);
+      animation: pulse 1.6s ease-in-out infinite;
+      flex-shrink: 0;
+    }
+    @keyframes pulse {
+      0%,100% { opacity: 1; transform: scale(1); }
+      50%      { opacity: .5; transform: scale(0.7); }
+    }
+
+    .channel-strip {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      overflow-x: auto;
+      flex: 1;
+      scrollbar-width: none;
+      padding: 0 8px;
+    }
+    .channel-strip::-webkit-scrollbar { display: none; }
+
+    .ch-btn {
+      flex-shrink: 0;
+      padding: 6px 14px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--txt-mid);
+      font-family: var(--font-bd);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+      letter-spacing: .5px;
+      transition: all .2s;
+    }
+    .ch-btn:hover, .ch-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      box-shadow: 0 0 14px var(--glow);
+    }
+
+    /* PLAYER */
+    #player-area {
+      display: flex;
+      flex-direction: column;
+      background: #000;
+      overflow: hidden;
+    }
+
+    #player { flex: 1; width: 100%; min-height: 0; }
+    .video-js { width: 100% !important; height: 100% !important; }
+
+    #controls-bar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 16px;
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .ctrl-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 16px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--txt-mid);
+      font-family: var(--font-bd);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      letter-spacing: .4px;
+      transition: all .2s;
+    }
+    .ctrl-btn svg { width: 14px; height: 14px; }
+    .ctrl-btn:hover { background: var(--border); color: var(--txt); }
+
+    #record.recording {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      box-shadow: 0 0 16px var(--glow);
+      animation: recpulse 1s ease-in-out infinite;
+    }
+    @keyframes recpulse {
+      0%,100% { box-shadow: 0 0 16px var(--glow); }
+      50%      { box-shadow: 0 0 28px var(--glow); }
+    }
+
+    #now-playing {
+      flex: 1;
+      font-size: 12px;
+      color: var(--txt-dim);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      text-align: center;
+      letter-spacing: .3px;
+    }
+    #now-playing span { color: var(--txt-mid); }
+
+    /* SIDEBAR */
+    #sidebar {
+      display: flex;
+      flex-direction: column;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      overflow: hidden;
+    }
+
+    .sidebar-head {
+      padding: 14px 16px 10px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .sidebar-title {
+      font-family: var(--font-hd);
+      font-size: 18px;
+      letter-spacing: 2px;
+      color: var(--txt-dim);
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+
+    /* CATEGORY TABS */
+    #category-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+      max-height: 110px;
+      overflow-y: auto;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border) transparent;
+    }
+    #category-tabs::-webkit-scrollbar { width: 3px; }
+    #category-tabs::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+    .cat-tab {
+      padding: 4px 10px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--txt-mid);
+      font-family: var(--font-bd);
+      font-size: 11px;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+      letter-spacing: .4px;
+      transition: all .2s;
+    }
+    .cat-tab:hover {
+      background: var(--panel);
+      color: var(--txt);
+    }
+    .cat-tab.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      box-shadow: 0 0 10px var(--glow);
+    }
+
+    /* SEARCH */
+    .search-wrap { position: relative; }
+    .search-wrap svg {
+      position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
+      width: 14px; height: 14px; color: var(--txt-dim); pointer-events: none;
+    }
+    #filterText {
+      width: 100%;
+      padding: 8px 10px 8px 32px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--txt);
+      font-family: var(--font-bd);
+      font-size: 13px;
+      outline: none;
+      transition: border-color .2s;
+    }
+    #filterText:focus { border-color: var(--accent); }
+    #filterText::placeholder { color: var(--txt-dim); }
+
+    /* CHANNEL LIST */
+    #channel-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 6px 0;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border) transparent;
+    }
+    #channel-list::-webkit-scrollbar { width: 4px; }
+    #channel-list::-webkit-scrollbar-track { background: transparent; }
+    #channel-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+    .ch-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 16px;
+      cursor: pointer;
+      border-left: 3px solid transparent;
+      transition: all .15s;
+    }
+    .ch-item:hover { background: var(--panel); }
+    .ch-item.active {
+      background: rgba(232,69,60,.08);
+      border-left-color: var(--accent);
+    }
+
+    .ch-num {
+      font-size: 10px;
+      color: var(--txt-dim);
+      width: 22px;
+      text-align: right;
+      flex-shrink: 0;
+      font-variant-numeric: tabular-nums;
+    }
+    .ch-name {
+      font-size: 13px;
+      color: var(--txt-mid);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      flex: 1;
+      transition: color .15s;
+    }
+    .ch-item.active .ch-name, .ch-item:hover .ch-name { color: var(--txt); }
+
+    .ch-play-icon {
+      width: 14px; height: 14px;
+      color: var(--accent);
+      opacity: 0;
+      transition: opacity .15s;
+      flex-shrink: 0;
+    }
+    .ch-item.active .ch-play-icon { opacity: 1; }
+    .ch-item:hover .ch-play-icon { opacity: .5; }
+
+    .ch-count {
+      padding: 8px 16px;
+      font-size: 11px;
+      color: var(--txt-dim);
+      border-top: 1px solid var(--border);
+      flex-shrink: 0;
+      letter-spacing: .3px;
+    }
+
+    /* CAST */
+    #cast-btn.casting {
+      background: #1a73e8;
+      border-color: #1a73e8;
+      color: #fff;
+      box-shadow: 0 0 16px rgba(26,115,232,0.45);
+    }
+    #cast-btn.casting svg { animation: castpulse 2s ease-in-out infinite; }
+    @keyframes castpulse {
+      0%,100% { opacity: 1; }
+      50%      { opacity: 0.5; }
+    }
+    #cast-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+
+    /* TOAST */
+    #toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(20px);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      color: var(--txt);
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-size: 13px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity .3s, transform .3s;
+      z-index: 100;
+      white-space: nowrap;
+    }
+    #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+    /* ── MOBILE RESPONSIVE ── */
+    @media (max-width: 768px) {
+      html, body {
+        overflow: hidden;
+        height: 100%;
+        height: 100dvh;
+      }
+
+      #app {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        height: 100dvh;
+        overflow: hidden;
+      }
+
+      /* ── HEADER ── */
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        flex-wrap: nowrap;
+        gap: 8px;
+        padding: 0 12px;
+        height: 46px;
+        flex-shrink: 0;
+      }
+      .logo { font-size: 19px; letter-spacing: 2px; }
+      .channel-strip { padding: 0 2px; gap: 5px; }
+      .ch-btn { padding: 5px 11px; font-size: 11px; }
+
+      /* ── PLAYER: 16:9 ratio ── */
+      #player-area {
+        flex-shrink: 0;
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        max-height: 56vw;
+        position: relative;
+        background: #000;
+        overflow: hidden;
+      }
+      #player { position: absolute; inset: 0; width: 100% !important; height: 100% !important; }
+      .video-js { width: 100% !important; height: 100% !important; }
+
+      /* ── CONTROLS BAR ── */
+      #controls-bar {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 6px;
+        padding: 8px 10px;
+        flex-shrink: 0;
+        background: var(--surface);
+        border-top: 1px solid var(--border);
+      }
+
+      #now-playing {
+        grid-column: 1 / -1;
+        grid-row: 1;
+        font-size: 11px;
+        text-align: left;
+        padding: 0 2px 2px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        color: var(--txt-mid);
+      }
+
+      .ctrl-btn {
+        grid-row: 2;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        padding: 0;
+        font-size: 11px;
+        border-radius: 10px;
+        min-height: 44px;
+        letter-spacing: 0;
+      }
+      .ctrl-btn svg { width: 15px; height: 15px; }
+
+      /* ── SIDEBAR: fills remaining space, internal scroll ── */
+      #sidebar {
+        border-left: none;
+        border-top: 2px solid var(--border);
+        flex: 1;
+        min-height: 0;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+      }
+
+      .sidebar-head {
+        padding: 8px 12px 8px;
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .sidebar-title { font-size: 14px; margin-bottom: 0; flex-shrink: 0; }
+      .search-wrap { flex: 1; }
+      #filterText { font-size: 14px; padding: 8px 10px 8px 32px; }
+
+      #category-tabs {
+        max-height: 72px;
+        padding: 6px 12px;
+        gap: 5px;
+        flex-shrink: 0;
+      }
+      .cat-tab {
+        padding: 5px 10px;
+        font-size: 11px;
+        min-height: 28px;
+        border-radius: 14px;
+      }
+
+      #channel-list {
+        flex: 1;
+        min-height: 0;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+      .ch-item { padding: 12px 14px; }
+      .ch-name { font-size: 14px; }
+      .ch-num  { font-size: 11px; }
+
+      .ch-count { padding: 6px 14px; font-size: 11px; flex-shrink: 0; }
+
+      #toast { font-size: 12px; bottom: 10px; }
+    }
+
+    /* ── LANDSCAPE PHONES ── */
+    @media (max-width: 768px) and (orientation: landscape) {
+      #app {
+        flex-direction: row;
+        flex-wrap: nowrap;
+      }
+      header {
+        display: none; /* reclaimed by side panel */
+      }
+      #player-area {
+        flex: 1 1 auto;
+        aspect-ratio: unset;
+        max-height: unset;
+        height: 100dvh;
+        align-self: stretch;
+      }
+      #player { position: static; width: 100% !important; height: 100% !important; }
+      #controls-bar {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto auto;
+        width: 120px;
+        flex-shrink: 0;
+        padding: 6px 8px;
+        border-top: none;
+        border-left: 1px solid var(--border);
+        align-content: start;
+      }
+      #now-playing { grid-column: 1 / -1; grid-row: 1; font-size: 10px; }
+      .ctrl-btn { min-height: 38px; font-size: 10px; }
+
+      #sidebar {
+        width: 200px;
+        flex-shrink: 0;
+        border-top: none;
+        border-left: 1px solid var(--border);
+        height: 100dvh;
+      }
+      .sidebar-head {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 6px;
+        padding: 8px 10px;
+      }
+      #category-tabs { max-height: 60px; padding: 4px 10px; }
+    }
+
+    /* ── EXTRA SMALL PHONES ── */
+    @media (max-width: 380px) {
+      .logo { font-size: 16px; }
+      .ch-btn { padding: 4px 9px; font-size: 10px; }
+      #player-area { max-height: 58vw; }
+      .ctrl-btn { font-size: 10px; min-height: 40px; }
+    }
+  </style>
+</head>
+<body>
+<div id="app">
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo">CP3 Stream</div>
+    <div class="live-dot"></div>
+    <div class="channel-strip" id="channel-strip">
+      <button class="ch-btn" onclick="loadChannel('https://mcvraghavan1963.github.io/IPTV/shirdi.m3u', this)">Shirdi</button>
+      <button class="ch-btn" onclick="loadChannel('https://mcvraghavan1963.github.io/IPTV/tamil.txt', this)">Rasi</button>
+      <button class="ch-btn" onclick="loadChannel('https://mcvraghavan1963.github.io/IPTV/ssungaus.txt', this)">AUS</button>
+      <button class="ch-btn" onclick="loadChannel('https://iptv-org.github.io/iptv/index.country.m3u', this)">IPTV-Country</button>
+      <button class="ch-btn" onclick="loadChannel('https://mcvraghavan1963.github.io/IPTV/ssungnz.txt', this)">NZ</button>
+      <button class="ch-btn" onclick="loadChannel('https://iptv-org.github.io/iptv/index.m3u', this)">GitHub All</button>
+      <button class="ch-btn" onclick="loadChannel('https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8', this)">Free TV</button>
+      <button class="ch-btn" onclick="loadChannel('https://mcvraghavan1963.github.io/IPTV/pt.txt', this)">PT</button>
+      <button class="ch-btn" onclick="loadChannel('https://iptv-org.github.io/iptv/languages/tam.m3u', this)">Tamil</button>
+      <button class="ch-btn" onclick="loadChannel('https://mcvraghavan1963.github.io/IPTV/bbc.txt', this)">BBC</button>
+      <button class="ch-btn" onclick="loadChannel('https://mcvraghavan1963.github.io/IPTV/local.m3u', this)">Local</button>
+    </div>
+  </header>
+
+  <!-- PLAYER -->
+  <div id="player-area">
+    <video id="player" class="video-js vjs-default-skin" controls autoplay></video>
+    <div id="controls-bar">
+      <button class="ctrl-btn" id="up" title="Previous channel">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"/></svg>
+        Prev
+      </button>
+      <button class="ctrl-btn" id="down" title="Next channel">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        Next
+      </button>
+      <div id="now-playing">Select a playlist above</div>
+      <button class="ctrl-btn" id="record" title="Record stream">
+        <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="7"/></svg>
+        Record
+      </button>
+      <button class="ctrl-btn" id="cast-btn" title="Cast to TV">
+        <svg id="cast-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"/>
+          <line x1="2" y1="20" x2="2.01" y2="20"/>
+        </svg>
+        Cast
+      </button>
+    </div>
+  </div>
+
+  <!-- SIDEBAR -->
+  <div id="sidebar">
+    <div class="sidebar-head">
+      <div class="sidebar-title">Channels</div>
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="filterText" placeholder="Search channels…">
+      </div>
+    </div>
+
+    <!-- CATEGORY TABS -->
+    <div id="category-tabs"></div>
+
+    <div id="channel-list"></div>
+    <div class="ch-count" id="ch-count">No channels loaded</div>
+  </div>
+
+</div>
+
+<div id="toast"></div>
+
+<script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-contrib-hls@5.15.0/dist/videojs-contrib-hls.min.js"></script>
+<script>
+  const defaultUrl = 'https://mcvraghavan1963.github.io/IPTV/shirdi.m3u';
+  let channels = [];        // { url, name, group }
+  let currentIndex = 0;
+  let activeCategory = 'All';
+  let mediaRecorder, recordedChunks = [];
+  let activeChBtn = null;
+
+  // ── toast ──
+  function toast(msg, dur = 2500) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    clearTimeout(t._tid);
+    t._tid = setTimeout(() => t.classList.remove('show'), dur);
+  }
+
+  // ── parse M3U ──
+  function parseM3U(text) {
+    const lines = text.split('\n');
+    const result = [];
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (line.startsWith('#EXTINF')) {
+        // Extract name (after last comma)
+        const nameMatch = line.match(/,(.+)$/);
+        const name = nameMatch ? nameMatch[1].trim() : 'Unknown';
+        // Extract group-title
+        const groupMatch = line.match(/group-title="([^"]*)"/i);
+        const group = groupMatch ? groupMatch[1].trim() : 'Uncategorised';
+        // Next non-empty line should be the URL
+        let j = i + 1;
+        while (j < lines.length && !lines[j].trim()) j++;
+        const url = lines[j] ? lines[j].trim() : '';
+        if (url && url.startsWith('http')) {
+          result.push({ url, name, group });
+          i = j; // skip url line
+        }
+      } else if (line.startsWith('http')) {
+        // Fallback: plain URL without #EXTINF
+        const prevLine = i > 0 ? lines[i-1].trim() : '';
+        const name = (prevLine && prevLine.includes(','))
+          ? prevLine.split(',').slice(1).join(',').trim()
+          : 'Unknown';
+        result.push({ url: line, name, group: 'Uncategorised' });
+      }
+    }
+    return result;
+  }
+
+  // ── build category tabs ──
+  function buildCategoryTabs() {
+    const tabsEl = document.getElementById('category-tabs');
+    tabsEl.innerHTML = '';
+
+    // Collect unique groups preserving order
+    const groups = ['All'];
+    channels.forEach(ch => {
+      if (!groups.includes(ch.group)) groups.push(ch.group);
+    });
+
+    groups.forEach(grp => {
+      const btn = document.createElement('button');
+      btn.className = 'cat-tab' + (grp === activeCategory ? ' active' : '');
+      const count = grp === 'All' ? channels.length : channels.filter(c => c.group === grp).length;
+      btn.textContent = `${grp} (${count})`;
+      btn.addEventListener('click', () => {
+        activeCategory = grp;
+        document.querySelectorAll('.cat-tab').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderChannelList(document.getElementById('filterText').value.toLowerCase());
+      });
+      tabsEl.appendChild(btn);
+    });
+  }
+
+  // ── filtered channels for current category ──
+  function getFilteredChannels(textFilter = '') {
+    return channels.map((ch, idx) => ({ ...ch, originalIdx: idx }))
+      .filter(ch => {
+        const matchCat = activeCategory === 'All' || ch.group === activeCategory;
+        const matchText = !textFilter || ch.name.toLowerCase().includes(textFilter);
+        return matchCat && matchText;
+      });
+  }
+
+  // ── render list ──
+  function renderChannelList(filter = '') {
+    const list = document.getElementById('channel-list');
+    list.innerHTML = '';
+    const visible = getFilteredChannels(filter);
+
+    visible.forEach((ch, listPos) => {
+      const item = document.createElement('div');
+      item.className = 'ch-item' + (ch.originalIdx === currentIndex ? ' active' : '');
+      item.dataset.idx = ch.originalIdx;
+      item.innerHTML = `
+        <span class="ch-num">${listPos + 1}</span>
+        <span class="ch-name" title="${ch.name}">${ch.name}</span>
+        <svg class="ch-play-icon" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+      `;
+      item.addEventListener('click', () => {
+        currentIndex = ch.originalIdx;
+        playStream(currentIndex);
+        renderChannelList(document.getElementById('filterText').value.toLowerCase());
+      });
+      list.appendChild(item);
+    });
+
+    document.getElementById('ch-count').textContent =
+      channels.length
+        ? `${visible.length} of ${channels.length} channels`
+        : 'No channels loaded';
+  }
+
+  // ── load playlist ──
+  function loadChannel(url, btnEl) {
+    if (activeChBtn) activeChBtn.classList.remove('active');
+    if (btnEl) { btnEl.classList.add('active'); activeChBtn = btnEl; }
+
+    toast('Loading playlist…');
+    fetch(url)
+      .then(r => r.text())
+      .then(data => {
+        channels = parseM3U(data);
+        currentIndex = 0;
+        activeCategory = 'All';
+        buildCategoryTabs();
+        renderChannelList();
+        if (channels.length) {
+          playStream(0);
+          toast(`${channels.length} channels loaded`);
+        } else {
+          toast('No channels found');
+        }
+      })
+      .catch(() => toast('Error loading playlist'));
+  }
+
+  // ── play ──
+  function playStream(index) {
+    const player = videojs('player');
+    const ch = channels[index];
+    if (!ch) return;
+    player.src({ src: ch.url, type: 'application/x-mpegURL' });
+    player.play().catch(() => {});
+    document.getElementById('now-playing').innerHTML =
+      `<span>Now Playing:</span> ${ch.name}${ch.group && ch.group !== 'Uncategorised' ? ' · <span>' + ch.group + '</span>' : ''}`;
+  }
+
+  // ── nav (respects active category) ──
+  document.getElementById('up').addEventListener('click', () => {
+    const visible = getFilteredChannels(document.getElementById('filterText').value.toLowerCase());
+    const pos = visible.findIndex(c => c.originalIdx === currentIndex);
+    if (pos > 0) {
+      currentIndex = visible[pos - 1].originalIdx;
+      playStream(currentIndex);
+      renderChannelList(document.getElementById('filterText').value.toLowerCase());
+    }
+  });
+  document.getElementById('down').addEventListener('click', () => {
+    const visible = getFilteredChannels(document.getElementById('filterText').value.toLowerCase());
+    const pos = visible.findIndex(c => c.originalIdx === currentIndex);
+    if (pos < visible.length - 1) {
+      currentIndex = visible[pos + 1].originalIdx;
+      playStream(currentIndex);
+      renderChannelList(document.getElementById('filterText').value.toLowerCase());
+    }
+  });
+
+  // ── filter ──
+  document.getElementById('filterText').addEventListener('input', e => {
+    renderChannelList(e.target.value.toLowerCase());
+  });
+
+  // ── record ──
+  document.getElementById('record').addEventListener('click', () => {
+    const btn = document.getElementById('record');
+    if (mediaRecorder && mediaRecorder.state === 'recording') {
+      mediaRecorder.stop();
+      btn.classList.remove('recording');
+      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="7"/></svg> Record`;
+    } else {
+      startRecording();
+      btn.classList.add('recording');
+      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="7"/></svg> Stop`;
+      toast('Recording started…');
+    }
+  });
+
+  function startRecording() {
+    recordedChunks = [];
+    const videoEl = document.getElementById('player_html5_api');
+    const stream = videoEl.captureStream();
+    mediaRecorder = new MediaRecorder(stream, { mimeType: 'video/webm; codecs=vp9' });
+    mediaRecorder.ondataavailable = e => { if (e.data.size > 0) recordedChunks.push(e.data); };
+    mediaRecorder.onstop = () => {
+      const blob = new Blob(recordedChunks, { type: 'video/mp4' });
+      const url = URL.createObjectURL(blob);
+      const a = Object.assign(document.createElement('a'), { href: url, download: `${new Date().toISOString().replace(/:/g,'-')}.mp4`, style: 'display:none' });
+      document.body.appendChild(a); a.click(); URL.revokeObjectURL(url);
+      toast('Recording saved!');
+    };
+    mediaRecorder.start();
+  }
+
+  // ── CAST ──
+  let castSession = null;
+  let castContext = null;
+
+  function initCast() {
+    const castBtn = document.getElementById('cast-btn');
+    if (!window.chrome || !window.chrome.cast) {
+      castBtn.disabled = true;
+      castBtn.title = 'Cast not available (Chrome + Chromecast required)';
+      return;
+    }
+
+    const sessionRequest = new chrome.cast.SessionRequest(chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID);
+    const apiConfig = new chrome.cast.ApiConfig(
+      sessionRequest,
+      sessionListener,
+      receiverListener
+    );
+    chrome.cast.initialize(apiConfig, () => {}, () => {});
+  }
+
+  function sessionListener(session) {
+    castSession = session;
+    updateCastButton(true);
+    toast('Cast connected!');
+    // If something is already playing, cast it
+    if (channels[currentIndex]) castCurrentToChromecast();
+  }
+
+  function receiverListener(status) {
+    const castBtn = document.getElementById('cast-btn');
+    if (status === chrome.cast.ReceiverAvailability.AVAILABLE) {
+      castBtn.disabled = false;
+      castBtn.title = 'Cast to TV';
+    } else {
+      castBtn.disabled = true;
+      castBtn.title = 'No Cast devices found';
+    }
+  }
+
+  function updateCastButton(casting) {
+    const castBtn = document.getElementById('cast-btn');
+    if (casting) {
+      castBtn.classList.add('casting');
+      castBtn.innerHTML = `
+        <svg id="cast-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"/>
+          <line x1="2" y1="20" x2="2.01" y2="20"/>
+        </svg> Stop Cast`;
+    } else {
+      castBtn.classList.remove('casting');
+      castBtn.innerHTML = `
+        <svg id="cast-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"/>
+          <line x1="2" y1="20" x2="2.01" y2="20"/>
+        </svg> Cast`;
+    }
+  }
+
+  function castCurrentToChromecast() {
+    if (!castSession || !channels[currentIndex]) return;
+    const ch = channels[currentIndex];
+    const mediaInfo = new chrome.cast.media.MediaInfo(ch.url, 'application/x-mpegURL');
+    mediaInfo.metadata = new chrome.cast.media.GenericMediaMetadata();
+    mediaInfo.metadata.title = ch.name;
+    mediaInfo.metadata.subtitle = ch.group !== 'Uncategorised' ? ch.group : '';
+    const request = new chrome.cast.media.LoadRequest(mediaInfo);
+    castSession.loadMedia(request,
+      () => toast(`Casting: ${ch.name}`),
+      () => toast('Cast playback error')
+    );
+  }
+
+  document.getElementById('cast-btn').addEventListener('click', () => {
+    if (!window.chrome || !window.chrome.cast) {
+      toast('Cast requires Chrome browser with Chromecast extension');
+      return;
+    }
+    if (castSession && castSession.status === chrome.cast.SessionStatus.CONNECTED) {
+      // Stop casting
+      castSession.stop(
+        () => { castSession = null; updateCastButton(false); toast('Cast stopped'); },
+        () => toast('Error stopping cast')
+      );
+    } else {
+      // Start new cast session
+      chrome.cast.requestSession(
+        session => { sessionListener(session); },
+        err => {
+          if (err.code !== chrome.cast.ErrorCode.CANCEL) toast('Could not connect to Cast device');
+        }
+      );
+    }
+  });
+
+  // Load Cast SDK
+  window['__onGCastApiAvailable'] = function(isAvailable) {
+    if (isAvailable) initCast();
+  };
+  (function loadCastSDK() {
+    const s = document.createElement('script');
+    s.src = 'https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1';
+    document.head.appendChild(s);
+  })();
+
+  // ── SWIPE TO CHANGE CHANNEL ──
+  (function initSwipe() {
+    let touchStartX = 0;
+    let touchStartY = 0;
+    let swiping = false;
+
+    // capture:true so we intercept before video.js handles the touch
+    document.addEventListener('touchstart', e => {
+      touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
+      swiping = false;
+    }, { passive: true, capture: true });
+
+    document.addEventListener('touchmove', e => {
+      const dx = e.touches[0].clientX - touchStartX;
+      const dy = e.touches[0].clientY - touchStartY;
+      if (Math.abs(dx) > 15 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+        swiping = true;
+      }
+    }, { passive: true, capture: true });
+
+    document.addEventListener('touchend', e => {
+      if (!swiping) return;
+      const dx = e.changedTouches[0].clientX - touchStartX;
+      const dy = e.changedTouches[0].clientY - touchStartY;
+
+      // Must be more horizontal than vertical, and at least 30px
+      if (Math.abs(dx) < 30 || Math.abs(dx) < Math.abs(dy)) return;
+
+      // Only trigger if swipe started inside the player area
+      const playerArea = document.getElementById('player-area');
+      const rect = playerArea.getBoundingClientRect();
+      if (touchStartY < rect.top || touchStartY > rect.bottom) return;
+
+      const filter = document.getElementById('filterText').value.toLowerCase();
+      const visible = getFilteredChannels(filter);
+      const pos = visible.findIndex(c => c.originalIdx === currentIndex);
+
+      if (dx < 0) {
+        // Swipe LEFT → next channel
+        if (pos < visible.length - 1) {
+          currentIndex = visible[pos + 1].originalIdx;
+          playStream(currentIndex);
+          renderChannelList(filter);
+          toast('▶  ' + channels[currentIndex].name);
+        } else {
+          toast('Last channel');
+        }
+      } else {
+        // Swipe RIGHT → previous channel
+        if (pos > 0) {
+          currentIndex = visible[pos - 1].originalIdx;
+          playStream(currentIndex);
+          renderChannelList(filter);
+          toast('◀  ' + channels[currentIndex].name);
+        } else {
+          toast('First channel');
+        }
+      }
+      swiping = false;
+    }, { capture: true });
+  })();
+
+  // init
+  const firstBtn = document.querySelector('.ch-btn');
+  loadChannel(defaultUrl, firstBtn);
+</script>
+</body>
+</html>
